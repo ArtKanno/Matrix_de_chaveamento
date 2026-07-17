@@ -1,0 +1,3264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\LENOVO\OneDrive\Documents\Imageamento\pcb_circular\Imageamento_microondas.kicad_sch</source>
+    <date>2026-01-15T00:40:53-0300</date>
+    <tool>Eeschema 9.0.4</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Imageamento_microondas.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/primeira_camada_emissao/" tstamps="/218992eb-2dd1-4a51-bca4-103611108c36/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>primeira_camada_emissao.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>segunda_camada_emissao.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>untitled.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/arbitragem/" tstamps="/94333ec5-1b9c-4318-b308-51cf4235b858/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>arbitragem.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/primeira_camada_recepcao/" tstamps="/85709c9b-d5dd-4d95-813b-80ced6e70179/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>primeira_camada_recepcao.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>segunda_camada_recepcao.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="primeira_camada_emissao"/>
+      <property name="Sheetfile" value="primeira_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/primeira_camada_emissao/" tstamps="/218992eb-2dd1-4a51-bca4-103611108c36/"/>
+      <tstamps>faa22308-9e6e-4ad6-83b4-13a528ba8f51</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="primeira_camada_emissao"/>
+      <property name="Sheetfile" value="primeira_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/primeira_camada_emissao/" tstamps="/218992eb-2dd1-4a51-bca4-103611108c36/"/>
+      <tstamps>f06f5847-7411-49db-b418-de5c1ac72384</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="primeira_camada_emissao"/>
+      <property name="Sheetfile" value="primeira_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/primeira_camada_emissao/" tstamps="/218992eb-2dd1-4a51-bca4-103611108c36/"/>
+      <tstamps>a0cd159b-bcb4-46b6-b867-32edf881bff8</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="primeira_camada_emissao"/>
+      <property name="Sheetfile" value="primeira_camada_emissao.kicad_sch"/>
+      <sheetpath names="/primeira_camada_emissao/" tstamps="/218992eb-2dd1-4a51-bca4-103611108c36/"/>
+      <tstamps>f7d206c0-7851-4064-94f5-40271e45e579</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="primeira_camada_emissao"/>
+      <property name="Sheetfile" value="primeira_camada_emissao.kicad_sch"/>
+      <sheetpath names="/primeira_camada_emissao/" tstamps="/218992eb-2dd1-4a51-bca4-103611108c36/"/>
+      <tstamps>89a78d2b-7f68-498f-9800-fd4f77497935</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>94f6eaaf-2ba4-4c14-89dc-2cb9b48b1b05</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>663b3630-e919-46f9-81a6-a79b7f9fa33d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>864ee2ef-6902-4f96-8db2-dafe17c919f9</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>bac1f3cd-854e-4e24-a989-4cbea5c512ba</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>9e8196b5-4e49-4e82-a3d4-d56f3b18e7bc</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>62be7ecf-f723-4aaa-a93c-e38717fa93c4</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>30bd60a0-3f80-4de9-b096-5cc0a9ddc959</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>b98c70c0-3769-4d09-bc4d-22f80d197d61</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>159af95d-3306-4ab8-9dcd-059c5e8f6865</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>268f6881-5cab-4df6-beac-d979caa482b7</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>d9fbcfbf-de78-47cc-b2b5-9222804d4f88</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>b6c26ee8-459d-4ced-93f5-e09954742232</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="segunda_camada_emissao"/>
+      <property name="Sheetfile" value="segunda_camada_emissao.kicad_sch"/>
+      <sheetpath names="/segunda_camada_emissao/" tstamps="/a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e/"/>
+      <tstamps>504e45fc-e9f6-49d4-90ae-a3ac8a213e1a</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>51596931-d34d-47c1-9f46-b67ec33b8fd0</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>e2156b6e-d06e-4326-a9e8-4d5f7958f88e</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>fc18c402-6aed-490f-b363-39c07094abfd</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>254187ca-6a63-48b9-b5ec-ee8d20ce2d9c</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>9b1f7c6b-bc50-4894-b43b-83d4ac6aa24e</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>ead594cf-3302-41b1-8636-465d6ec01dd6</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>c30fe5e3-1832-4425-a2b7-63414cc44e7a</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>1dc243a5-707c-4258-bb69-8cf524373c39</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>624de2a2-a554-4db3-a63e-58efa8bb5e7b</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>0cdfba48-c514-4600-be2c-2485c4f4aba6</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>00f9d4df-107a-4b9c-a3f3-6f6b9b08aa40</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>301290b5-4f28-4034-a13e-750c5a3c5d25</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>bd19dc13-e075-4bb4-89d3-649d0472e414</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>a628d19c-bc95-459c-96b1-f3067c840716</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>18c8c85a-e3a8-40eb-9cde-cffa6e14f8ed</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>ec73abfa-5e96-4571-a4e9-0e477d849263</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>7138b837-81e9-4a4c-8d04-7141dcb33e2a</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>1f31c653-75a8-4475-a8d4-1ec874de2b97</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>bb0040cd-6891-412f-a329-2dfb575a6074</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>94b19e15-f857-486f-a4ec-8e37dd2cfe55</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>95144fb4-ea96-44ce-a164-5b71c2cc2717</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>c3050f5f-343a-4710-a3ce-b0480f2b2dcd</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>69649799-6e2d-4448-b75c-c1266069f57c</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>0ec75dce-f3b1-416e-a424-83a97833296d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>45c06d4d-75dd-48a6-a18f-d39ef1333c3b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>02c5492f-8d6e-4611-8d3b-e343174ababf</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>ce21a0dd-4943-498d-95b9-56ea047f1f2d</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>9062d7b8-c79b-49cf-9673-186eb5280e9d</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>dc70c222-687b-4164-a7ee-b5690113b6ee</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>db84382e-fb2e-45c0-897b-8ba8a7fe9a83</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>17bd5448-3ff5-46e9-9b23-00187afcc7fd</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>93ed3848-c0ea-4bfa-a76d-af45d7141745</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>ae15fde3-1f11-4593-bd90-5a24f5e29d79</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>fe61de5a-4241-45ba-904a-b9382a44a118</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>e0e590e5-961e-4451-8887-bb5bd9411bab</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>450b04be-da04-43d7-bc4e-c85589738bf2</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>e80c0a23-1792-4a21-adee-34a1553122ea</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>60e507e7-3274-4b4a-b1bb-25ba258e392a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>d5141bf8-ab6c-4b5e-b8fc-e3e1431aeece</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>5b1e8c84-6452-4f40-9dbc-7949ac013923</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>83012947-9686-4a2d-b480-541d18cb89fd</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>7899839d-46bd-4e7b-917f-ac1e6d3187ae</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>221ff03f-163c-4efe-bc32-32384cc3bf47</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>3414683d-1bec-439b-9325-eef05bd5f624</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>a2c3a868-82ef-4ae8-8828-282c531156cc</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>1e444445-59b2-4d95-b43a-9390189740c8</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>fc5b2313-4983-4b12-8e79-1db8519f9227</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="camada_antena"/>
+      <property name="Sheetfile" value="untitled.kicad_sch"/>
+      <sheetpath names="/camada_antena/" tstamps="/33d6fce6-0672-4cab-83d0-ba331bb35cfd/"/>
+      <tstamps>c5d294d2-89d4-4b87-9440-df5fb2877a98</tstamps>
+    </comp>
+    <comp ref="C50">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="arbitragem"/>
+      <property name="Sheetfile" value="arbitragem.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/arbitragem/" tstamps="/94333ec5-1b9c-4318-b308-51cf4235b858/"/>
+      <tstamps>40345dbe-ed62-43cd-9976-08567745c9c9</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>TB0012-508-03GR</value>
+      <footprint>Conector_alimentacao:SAMESKY_TB0012-508-03GR</footprint>
+      <fields>
+        <field name="MF">Same Sky (Formerly CUI Devices)</field>
+        <field name="Description_1">3 Position Wire to Board Terminal Block Horizontal with Board 0.200 (5.08mm) Through Hole</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TB0012-508-03GR/Same+Sky/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TB0012-508-03GR/Same+Sky/view-part/?ref=snap</field>
+        <field name="MP">TB0012-508-03GR</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=18753502&amp;manufacturer=Same Sky (Formerly CUI Devices)&amp;part_name=TB0012-508-03GR&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">SAMESKY</field>
+        <field name="Footprint">Conector_alimentacao:SAMESKY_TB0012-508-03GR</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="TB0012-508-03GR" part="TB0012-508-03GR" description=""/>
+      <property name="MF" value="Same Sky (Formerly CUI Devices)"/>
+      <property name="Description_1" value="3 Position Wire to Board Terminal Block Horizontal with Board 0.200 (5.08mm) Through Hole"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/TB0012-508-03GR/Same+Sky/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/TB0012-508-03GR/Same+Sky/view-part/?ref=snap"/>
+      <property name="MP" value="TB0012-508-03GR"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=18753502&amp;manufacturer=Same Sky (Formerly CUI Devices)&amp;part_name=TB0012-508-03GR&amp;search_term=None"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="SAMESKY"/>
+      <property name="Sheetname" value="arbitragem"/>
+      <property name="Sheetfile" value="arbitragem.kicad_sch"/>
+      <sheetpath names="/arbitragem/" tstamps="/94333ec5-1b9c-4318-b308-51cf4235b858/"/>
+      <tstamps>57a3905a-9d0b-4c9e-b536-35f034fb2ccb</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="arbitragem"/>
+      <property name="Sheetfile" value="arbitragem.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/arbitragem/" tstamps="/94333ec5-1b9c-4318-b308-51cf4235b858/"/>
+      <tstamps>5a16e0c0-bd6d-448e-b1cb-3e1a2c2b2103</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>ESP32-DEVKITC-32E</value>
+      <footprint>ESP32:MODULE_ESP32-DEVKITC-32E</footprint>
+      <fields>
+        <field name="MF">Espressif Systems</field>
+        <field name="Description_1">The ESP32-DEVKITC-32E transceiver evaluation board from Espressif Systems is a powerful development tool for wireless communication technologies. It supports 802.11 b/g/n Wi-Fi and Bluetooth® Smart Ready 4.x (BLE) dual-mode at 2.4GHz, making it ideal for a variety of IoT applications. Equipped with a PCB antenna and 4MB flash, this board provides reliable connectivity and ample memory for developing and testing RF, RFID, and wireless solutions.</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-DEVKITC-32E/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">1.4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-DEVKITC-32E/Espressif+Systems/view-part/?ref=snap</field>
+        <field name="MP">ESP32-DEVKITC-32E</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4719025&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-DEVKITC-32E&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Espressif Systems</field>
+        <field name="Footprint">ESP32:MODULE_ESP32-DEVKITC-32E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ESP32-DEVKITC-32E" part="ESP32-DEVKITC-32E" description=""/>
+      <property name="MF" value="Espressif Systems"/>
+      <property name="Description_1" value="The ESP32-DEVKITC-32E transceiver evaluation board from Espressif Systems is a powerful development tool for wireless communication technologies. It supports 802.11 b/g/n Wi-Fi and Bluetooth® Smart Ready 4.x (BLE) dual-mode at 2.4GHz, making it ideal for a variety of IoT applications. Equipped with a PCB antenna and 4MB flash, this board provides reliable connectivity and ample memory for developing and testing RF, RFID, and wireless solutions."/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ESP32-DEVKITC-32E/Espressif+Systems/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="1.4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ESP32-DEVKITC-32E/Espressif+Systems/view-part/?ref=snap"/>
+      <property name="MP" value="ESP32-DEVKITC-32E"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4719025&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-DEVKITC-32E&amp;search_term=None"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Espressif Systems"/>
+      <property name="Sheetname" value="arbitragem"/>
+      <property name="Sheetfile" value="arbitragem.kicad_sch"/>
+      <sheetpath names="/arbitragem/" tstamps="/94333ec5-1b9c-4318-b308-51cf4235b858/"/>
+      <tstamps>a2ad8067-e4c0-4d37-8fbf-d51436f61978</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>MCP23016-I_SP</value>
+      <footprint>Extensor:DIP787W46P254L3467H508Q28</footprint>
+      <fields>
+        <field name="MF">Microchip</field>
+        <field name="Description_1">Microchip MCP23016-I/SP, 16-channel I/O Expander, I2C, 28-Pin SPDIP | Microchip Technology Inc. MCP23016-I/SP</field>
+        <field name="Package">SPDIP-28 Microchip</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/MCP23016-I/SP/Microchip+Technology/view-part/?ref=snap</field>
+        <field name="MP">MCP23016-I/SP</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=455731&amp;manufacturer=Microchip&amp;part_name=MCP23016-I/SP&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/MCP23016-I/SP/Microchip+Technology/view-part/?ref=eda</field>
+        <field name="Footprint">Extensor:DIP787W46P254L3467H508Q28</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MCP23016-I_SP" part="MCP23016-I_SP" description=""/>
+      <property name="MF" value="Microchip"/>
+      <property name="Description_1" value="Microchip MCP23016-I/SP, 16-channel I/O Expander, I2C, 28-Pin SPDIP | Microchip Technology Inc. MCP23016-I/SP"/>
+      <property name="Package" value="SPDIP-28 Microchip"/>
+      <property name="Price" value="None"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/MCP23016-I/SP/Microchip+Technology/view-part/?ref=snap"/>
+      <property name="MP" value="MCP23016-I/SP"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=455731&amp;manufacturer=Microchip&amp;part_name=MCP23016-I/SP&amp;search_term=None"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/MCP23016-I/SP/Microchip+Technology/view-part/?ref=eda"/>
+      <property name="Sheetname" value="arbitragem"/>
+      <property name="Sheetfile" value="arbitragem.kicad_sch"/>
+      <sheetpath names="/arbitragem/" tstamps="/94333ec5-1b9c-4318-b308-51cf4235b858/"/>
+      <tstamps>f9dfa531-444b-444b-8f1f-a21010be21f2</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="primeira_camada_recepcao"/>
+      <property name="Sheetfile" value="primeira_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/primeira_camada_recepcao/" tstamps="/85709c9b-d5dd-4d95-813b-80ced6e70179/"/>
+      <tstamps>cba3f0b0-26d4-41f6-89b1-309ff7945542</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="primeira_camada_recepcao"/>
+      <property name="Sheetfile" value="primeira_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/primeira_camada_recepcao/" tstamps="/85709c9b-d5dd-4d95-813b-80ced6e70179/"/>
+      <tstamps>a7049755-b1d6-41c7-8ac7-48646cf544da</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="primeira_camada_recepcao"/>
+      <property name="Sheetfile" value="primeira_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/primeira_camada_recepcao/" tstamps="/85709c9b-d5dd-4d95-813b-80ced6e70179/"/>
+      <tstamps>be220877-cf0a-4b38-b065-66f9f364e07a</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="primeira_camada_recepcao"/>
+      <property name="Sheetfile" value="primeira_camada_recepcao.kicad_sch"/>
+      <sheetpath names="/primeira_camada_recepcao/" tstamps="/85709c9b-d5dd-4d95-813b-80ced6e70179/"/>
+      <tstamps>ee61e19d-489f-4fe9-adf8-7fe6551d1de2</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="primeira_camada_recepcao"/>
+      <property name="Sheetfile" value="primeira_camada_recepcao.kicad_sch"/>
+      <sheetpath names="/primeira_camada_recepcao/" tstamps="/85709c9b-d5dd-4d95-813b-80ced6e70179/"/>
+      <tstamps>993409e0-3b06-4678-ac1d-3f308b62b920</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>1c9a5cfa-389e-4f61-adbd-b1e805eecd40</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>65778296-da1d-446c-be39-c50eb42d54c8</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>e2e8a440-5001-464c-8643-92464157c1f8</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>4ad0a9f1-03e5-4b52-b5e5-c9f422a56077</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>9e8bfed2-f283-4355-8987-519c3ee9fbc4</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>d6a2f1ad-97d0-4098-bf10-aca6df06db78</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>3e65de74-f68b-4de3-9ee6-318b0150070b</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>54e6818f-b093-4d07-9465-3b87fb6f9651</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>365577e6-d8df-460a-9865-eecca596dbd2</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>0732511352</value>
+      <footprint>conector_sma:Footprint_adaptado</footprint>
+      <fields>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="Footprint">conector_sma:Footprint_adaptado</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="0732511352" part="0732511352" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="9.655mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="C4"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="732511352"/>
+      <property name="Description_1" value="SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>ae2dd0cf-f8ff-4525-94ac-6ccddf0909ae</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>dac32d69-e5e9-4b53-828c-bc79f54bbd8c</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>a152f419-5afe-47e6-bccc-b4a9d67ecf53</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>SKY13373-460LF</value>
+      <footprint>SKY13373-460LF:QFN50P200X200X65-13N</footprint>
+      <fields>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SKY13373-460LF" part="SKY13373-460LF" description=""/>
+      <property name="MF" value="Skyworks Solutions"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.65 mm"/>
+      <property name="Package" value="QFN-12 Skyworks Solutions"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="PARTREV" value="May 6, 2016"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap"/>
+      <property name="MP" value="SKY13373-460LF"/>
+      <property name="Description_1" value="RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Skyworks"/>
+      <property name="Sheetname" value="segunda_camada_recepcao"/>
+      <property name="Sheetfile" value="segunda_camada_recepcao.kicad_sch"/>
+      <sheetpath names="/segunda_camada_recepcao/" tstamps="/757b3b44-848b-4c23-b371-f6d5562e81c2/"/>
+      <tstamps>361b9b5b-9025-43a5-8c2f-dc744c514cf3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="0732511352" part="0732511352">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">0732511352</field>
+        <field name="Footprint">0732511352:MOLEX_0732511352</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Molex</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">9.655mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">C4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap</field>
+        <field name="MP">732511352</field>
+        <field name="Description_1">SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="S1" name="" type="passive"/>
+        <pin num="S2" name="" type="passive"/>
+        <pin num="S3" name="" type="passive"/>
+        <pin num="S4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DEVKITC-32E" part="ESP32-DEVKITC-32E">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-DEVKITC-32E</field>
+        <field name="Footprint">ESP32-DEVKITC-32E:MODULE_ESP32-DEVKITC-32E</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Espressif Systems</field>
+        <field name="Description_1">The ESP32-DEVKITC-32E transceiver evaluation board from Espressif Systems is a powerful development tool for wireless communication technologies. It supports 802.11 b/g/n Wi-Fi and Bluetooth® Smart Ready 4.x (BLE) dual-mode at 2.4GHz, making it ideal for a variety of IoT applications. Equipped with a PCB antenna and 4MB flash, this board provides reliable connectivity and ample memory for developing and testing RF, RFID, and wireless solutions.</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-DEVKITC-32E/Espressif+Systems/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">1.4</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-DEVKITC-32E/Espressif+Systems/view-part/?ref=snap</field>
+        <field name="MP">ESP32-DEVKITC-32E</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4719025&amp;manufacturer=Espressif Systems&amp;part_name=ESP32-DEVKITC-32E&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Espressif Systems</field>
+      </fields>
+      <pins>
+        <pin num="J2_1" name="3V3" type="power_in"/>
+        <pin num="J2_2" name="EN" type="input"/>
+        <pin num="J2_3" name="SENSOR_VP" type="bidirectional"/>
+        <pin num="J2_4" name="SENSOR_VN" type="bidirectional"/>
+        <pin num="J2_5" name="IO34" type="bidirectional"/>
+        <pin num="J2_6" name="IO35" type="bidirectional"/>
+        <pin num="J2_7" name="IO32" type="bidirectional"/>
+        <pin num="J2_8" name="IO33" type="bidirectional"/>
+        <pin num="J2_9" name="IO25" type="bidirectional"/>
+        <pin num="J2_10" name="IO26" type="bidirectional"/>
+        <pin num="J2_11" name="IO27" type="bidirectional"/>
+        <pin num="J2_12" name="IO14" type="bidirectional"/>
+        <pin num="J2_13" name="IO12" type="bidirectional"/>
+        <pin num="J2_14" name="GND_J2_14" type="power_in"/>
+        <pin num="J2_15" name="IO13" type="bidirectional"/>
+        <pin num="J2_16" name="SD2" type="bidirectional"/>
+        <pin num="J2_17" name="SD3" type="bidirectional"/>
+        <pin num="J2_18" name="CMD" type="bidirectional"/>
+        <pin num="J2_19" name="EXT_5V" type="power_in"/>
+        <pin num="J3_1" name="GND_J3_1" type="power_in"/>
+        <pin num="J3_2" name="IO23" type="bidirectional"/>
+        <pin num="J3_3" name="IO22" type="bidirectional"/>
+        <pin num="J3_4" name="TXD0" type="bidirectional"/>
+        <pin num="J3_5" name="RXD0" type="bidirectional"/>
+        <pin num="J3_6" name="IO21" type="bidirectional"/>
+        <pin num="J3_7" name="GND_J3_7" type="power_in"/>
+        <pin num="J3_8" name="IO19" type="bidirectional"/>
+        <pin num="J3_9" name="IO18" type="bidirectional"/>
+        <pin num="J3_10" name="IO5" type="bidirectional"/>
+        <pin num="J3_11" name="IO17" type="bidirectional"/>
+        <pin num="J3_12" name="IO16" type="bidirectional"/>
+        <pin num="J3_13" name="IO4" type="bidirectional"/>
+        <pin num="J3_14" name="IO0" type="bidirectional"/>
+        <pin num="J3_15" name="IO2" type="bidirectional"/>
+        <pin num="J3_16" name="IO15" type="bidirectional"/>
+        <pin num="J3_17" name="SD1" type="bidirectional"/>
+        <pin num="J3_18" name="SD0" type="bidirectional"/>
+        <pin num="J3_19" name="CLK" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCP23016-I_SP" part="MCP23016-I_SP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP23016-I_SP</field>
+        <field name="Footprint">MCP23016-I_SP:DIP787W46P254L3467H508Q28</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Microchip</field>
+        <field name="Description_1">Microchip MCP23016-I/SP, 16-channel I/O Expander, I2C, 28-Pin SPDIP | Microchip Technology Inc. MCP23016-I/SP</field>
+        <field name="Package">SPDIP-28 Microchip</field>
+        <field name="Price">None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/MCP23016-I/SP/Microchip+Technology/view-part/?ref=snap</field>
+        <field name="MP">MCP23016-I/SP</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=455731&amp;manufacturer=Microchip&amp;part_name=MCP23016-I/SP&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/MCP23016-I/SP/Microchip+Technology/view-part/?ref=eda</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="GP1.0" type="bidirectional"/>
+        <pin num="3" name="GP1.1" type="bidirectional"/>
+        <pin num="4" name="GP1.2" type="bidirectional"/>
+        <pin num="5" name="GP1.3" type="bidirectional"/>
+        <pin num="6" name="~{INT}" type="output"/>
+        <pin num="7" name="GP1.4" type="bidirectional"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="CLK" type="input"/>
+        <pin num="10" name="TP" type="input"/>
+        <pin num="11" name="GP1.5" type="bidirectional"/>
+        <pin num="12" name="GP1.6" type="bidirectional"/>
+        <pin num="13" name="GP1.7" type="bidirectional"/>
+        <pin num="14" name="SCL" type="input"/>
+        <pin num="15" name="SDA" type="bidirectional"/>
+        <pin num="16" name="A0" type="input"/>
+        <pin num="17" name="A1" type="input"/>
+        <pin num="18" name="A2" type="input"/>
+        <pin num="19" name="VSS" type="power_in"/>
+        <pin num="20" name="VDD" type="power_in"/>
+        <pin num="21" name="GP0.0" type="bidirectional"/>
+        <pin num="22" name="GP0.1" type="bidirectional"/>
+        <pin num="23" name="GP0.2" type="bidirectional"/>
+        <pin num="24" name="GP0.3" type="bidirectional"/>
+        <pin num="25" name="GP0.4" type="bidirectional"/>
+        <pin num="26" name="GP0.5" type="bidirectional"/>
+        <pin num="27" name="GP0.6" type="bidirectional"/>
+        <pin num="28" name="GP0.7" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="SKY13373-460LF" part="SKY13373-460LF">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SKY13373-460LF</field>
+        <field name="Footprint">SKY13373-460LF:QFN50P200X200X65-13N</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Skyworks Solutions</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">0.65 mm</field>
+        <field name="Package">QFN-12 Skyworks Solutions</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="PARTREV">May 6, 2016</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap</field>
+        <field name="MP">SKY13373-460LF</field>
+        <field name="Description_1">RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Skyworks</field>
+      </fields>
+      <pins>
+        <pin num="1" name="J1" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="J3" type="output"/>
+        <pin num="4" name="V1" type="input"/>
+        <pin num="5" name="V2" type="input"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="J2" type="output"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="RFC" type="input"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TB0012-508-03GR" part="TB0012-508-03GR">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TB0012-508-03GR</field>
+        <field name="Footprint">TB0012-508-03GR:SAMESKY_TB0012-508-03GR</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="MF">Same Sky (Formerly CUI Devices)</field>
+        <field name="Description_1">3 Position Wire to Board Terminal Block Horizontal with Board 0.200 (5.08mm) Through Hole</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/TB0012-508-03GR/Same+Sky/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/TB0012-508-03GR/Same+Sky/view-part/?ref=snap</field>
+        <field name="MP">TB0012-508-03GR</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=18753502&amp;manufacturer=Same Sky (Formerly CUI Devices)&amp;part_name=TB0012-508-03GR&amp;search_term=None</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">SAMESKY</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="0732511352">
+      <uri>C:/Users/LENOVO/OneDrive/Documents/Imageamento/conector/0732511352.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="ESP32-DEVKITC-32E">
+      <uri>C:/Users/LENOVO/OneDrive/Documents/Imageamento/Imageamento_microondas/Snap/ESP32/ESP32-DEVKITC-32E.kicad_sym</uri>
+    </library>
+    <library logical="MCP23016-I_SP">
+      <uri>C:/Users/LENOVO/OneDrive/Documents/Imageamento/Imageamento_microondas/Snap/Extensor/MCP23016-I_SP.kicad_sym</uri>
+    </library>
+    <library logical="SKY13373-460LF">
+      <uri>C:/Users/LENOVO/Downloads/SKY13373-460LF/SKY13373-460LF.kicad_sym</uri>
+    </library>
+    <library logical="TB0012-508-03GR">
+      <uri>C:/Users/LENOVO/OneDrive/Documents/Imageamento/Imageamento_microondas/Snap/Conector/TB0012-508-03GR.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="55" name="/CA_1" class="Default">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="U17" pin="J2_11" pinfunction="IO27" pintype="bidirectional"/>
+      <node ref="U5" pin="4" pinfunction="V1" pintype="input"/>
+    </net>
+    <net code="56" name="/CA_2" class="Default">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="U17" pin="J2_12" pinfunction="IO14" pintype="bidirectional"/>
+      <node ref="U5" pin="5" pinfunction="V2" pintype="input"/>
+    </net>
+    <net code="57" name="/CA_3" class="Default">
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="U17" pin="J2_5" pinfunction="IO34" pintype="bidirectional"/>
+      <node ref="U6" pin="4" pinfunction="V1" pintype="input"/>
+    </net>
+    <net code="58" name="/CA_4" class="Default">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="U17" pin="J2_6" pinfunction="IO35" pintype="bidirectional"/>
+      <node ref="U6" pin="5" pinfunction="V2" pintype="input"/>
+    </net>
+    <net code="59" name="/CA_5" class="Default">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="U17" pin="J2_7" pinfunction="IO32" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="V1" pintype="input"/>
+    </net>
+    <net code="60" name="/CA_6" class="Default">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="U17" pin="J2_8" pinfunction="IO33" pintype="bidirectional"/>
+      <node ref="U7" pin="5" pinfunction="V2" pintype="input"/>
+    </net>
+    <net code="61" name="/CA_7" class="Default">
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="U18" pin="2" pinfunction="GP1.0" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="V1" pintype="input"/>
+    </net>
+    <net code="62" name="/CA_8" class="Default">
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="U18" pin="3" pinfunction="GP1.1" pintype="bidirectional"/>
+      <node ref="U8" pin="5" pinfunction="V2" pintype="input"/>
+    </net>
+    <net code="63" name="/CA_9" class="Default">
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="U17" pin="J3_11" pinfunction="IO17" pintype="bidirectional"/>
+      <node ref="U9" pin="4" pinfunction="V1" pintype="input"/>
+    </net>
+    <net code="64" name="/CA_10" class="Default">
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="U17" pin="J3_12" pinfunction="IO16" pintype="bidirectional"/>
+      <node ref="U9" pin="5" pinfunction="V2" pintype="input"/>
+    </net>
+    <net code="65" name="/CA_11" class="Default">
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="V1" pintype="input"/>
+      <node ref="U18" pin="24" pinfunction="GP0.3" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="/CA_12" class="Default">
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="V2" pintype="input"/>
+      <node ref="U18" pin="23" pinfunction="GP0.2" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="/CA_13" class="Default">
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="V1" pintype="input"/>
+      <node ref="U18" pin="12" pinfunction="GP1.6" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="/CA_14" class="Default">
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="U11" pin="5" pinfunction="V2" pintype="input"/>
+      <node ref="U18" pin="13" pinfunction="GP1.7" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="/CA_15" class="Default">
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="U12" pin="4" pinfunction="V1" pintype="input"/>
+      <node ref="U18" pin="7" pinfunction="GP1.4" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="/CA_16" class="Default">
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="U12" pin="5" pinfunction="V2" pintype="input"/>
+      <node ref="U18" pin="11" pinfunction="GP1.5" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="/CE1_1" class="Default">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V1" pintype="input"/>
+      <node ref="U17" pin="J3_14" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="/CE1_2" class="Default">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="V2" pintype="input"/>
+      <node ref="U17" pin="J3_13" pinfunction="IO4" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="/CE2_1" class="Default">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U17" pin="J3_6" pinfunction="IO21" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="V1" pintype="input"/>
+    </net>
+    <net code="76" name="/CE2_2" class="Default">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U17" pin="J3_3" pinfunction="IO22" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="V2" pintype="input"/>
+    </net>
+    <net code="77" name="/CE2_3" class="Default">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U17" pin="J3_16" pinfunction="IO15" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="V1" pintype="input"/>
+    </net>
+    <net code="78" name="/CE2_4" class="Default">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U17" pin="J3_15" pinfunction="IO2" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="V2" pintype="input"/>
+    </net>
+    <net code="79" name="/CE2_5" class="Default">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="U18" pin="21" pinfunction="GP0.0" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="V1" pintype="input"/>
+    </net>
+    <net code="80" name="/CE2_6" class="Default">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U18" pin="22" pinfunction="GP0.1" pintype="bidirectional"/>
+      <node ref="U4" pin="5" pinfunction="V2" pintype="input"/>
+    </net>
+    <net code="82" name="/CR1_1" class="Default">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="U13" pin="4" pinfunction="V1" pintype="input"/>
+      <node ref="U18" pin="27" pinfunction="GP0.6" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="/CR1_2" class="Default">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U13" pin="5" pinfunction="V2" pintype="input"/>
+      <node ref="U18" pin="28" pinfunction="GP0.7" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="/CR2_1" class="Default">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="U14" pin="4" pinfunction="V1" pintype="input"/>
+      <node ref="U17" pin="J2_9" pinfunction="IO25" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="/CR2_2" class="Default">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="U14" pin="5" pinfunction="V2" pintype="input"/>
+      <node ref="U17" pin="J2_10" pinfunction="IO26" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="/CR2_3" class="Default">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="U15" pin="4" pinfunction="V1" pintype="input"/>
+      <node ref="U18" pin="26" pinfunction="GP0.5" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="/CR2_4" class="Default">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="U15" pin="5" pinfunction="V2" pintype="input"/>
+      <node ref="U18" pin="25" pinfunction="GP0.4" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="/CR2_5" class="Default">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="U16" pin="4" pinfunction="V1" pintype="input"/>
+      <node ref="U18" pin="4" pinfunction="GP1.2" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="/CR2_6" class="Default">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="U16" pin="5" pinfunction="V2" pintype="input"/>
+      <node ref="U18" pin="5" pinfunction="GP1.3" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="/E1_1" class="Default">
+      <node ref="U1" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U2" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="93" name="/E1_2" class="Default">
+      <node ref="U1" pin="3" pinfunction="J3" pintype="output"/>
+      <node ref="U3" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="94" name="/E1_3" class="Default">
+      <node ref="U1" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U4" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="96" name="/E2_1" class="Default">
+      <node ref="U2" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U5" pin="1" pinfunction="J1" pintype="output"/>
+    </net>
+    <net code="97" name="/E2_2" class="Default">
+      <node ref="U2" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U6" pin="1" pinfunction="J1" pintype="output"/>
+    </net>
+    <net code="98" name="/E2_3" class="Default">
+      <node ref="U2" pin="3" pinfunction="J3" pintype="output"/>
+      <node ref="U7" pin="1" pinfunction="J1" pintype="output"/>
+    </net>
+    <net code="99" name="/E2_4" class="Default">
+      <node ref="U3" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U8" pin="1" pinfunction="J1" pintype="output"/>
+    </net>
+    <net code="100" name="/E2_5" class="Default">
+      <node ref="U3" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U9" pin="1" pinfunction="J1" pintype="output"/>
+    </net>
+    <net code="101" name="/E2_6" class="Default">
+      <node ref="U10" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U3" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="102" name="/E2_7" class="Default">
+      <node ref="U11" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U4" pin="1" pinfunction="J1" pintype="output"/>
+    </net>
+    <net code="103" name="/E2_8" class="Default">
+      <node ref="U12" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="105" name="/R1_1" class="Default">
+      <node ref="U13" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U14" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="106" name="/R1_2" class="Default">
+      <node ref="U13" pin="3" pinfunction="J3" pintype="output"/>
+      <node ref="U15" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="107" name="/R1_3" class="Default">
+      <node ref="U13" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U16" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="109" name="/R2_1" class="Default">
+      <node ref="U14" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U5" pin="9" pinfunction="J2" pintype="output"/>
+    </net>
+    <net code="110" name="/R2_2" class="Default">
+      <node ref="U14" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U6" pin="9" pinfunction="J2" pintype="output"/>
+    </net>
+    <net code="111" name="/R2_3" class="Default">
+      <node ref="U14" pin="3" pinfunction="J3" pintype="output"/>
+      <node ref="U7" pin="9" pinfunction="J2" pintype="output"/>
+    </net>
+    <net code="112" name="/R2_4" class="Default">
+      <node ref="U15" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U8" pin="9" pinfunction="J2" pintype="output"/>
+    </net>
+    <net code="113" name="/R2_5" class="Default">
+      <node ref="U15" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U9" pin="9" pinfunction="J2" pintype="output"/>
+    </net>
+    <net code="114" name="/R2_6" class="Default">
+      <node ref="U10" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U15" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="115" name="/R2_7" class="Default">
+      <node ref="U11" pin="1" pinfunction="J1" pintype="output"/>
+      <node ref="U16" pin="9" pinfunction="J2" pintype="output"/>
+    </net>
+    <net code="116" name="/R2_8" class="Default">
+      <node ref="U12" pin="9" pinfunction="J2" pintype="output"/>
+      <node ref="U16" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="118" name="/arbitragem/I2C_1" class="Default">
+      <node ref="U17" pin="J3_8" pinfunction="IO19" pintype="bidirectional"/>
+      <node ref="U18" pin="15" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="/arbitragem/I2C_2" class="Default">
+      <node ref="U17" pin="J3_2" pinfunction="IO23" pintype="bidirectional"/>
+      <node ref="U18" pin="10" pinfunction="TP" pintype="input"/>
+    </net>
+    <net code="120" name="/segunda_camada_emissao/EXT_E" class="Default">
+      <node ref="J10" pin="1" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="J2" pintype="output"/>
+    </net>
+    <net code="121" name="/segunda_camada_recepcao/EXT_R" class="Default">
+      <node ref="J13" pin="1" pintype="passive"/>
+      <node ref="U16" pin="1" pinfunction="J1" pintype="output"/>
+    </net>
+    <net code="122" name="GND" class="Default">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="S1" pintype="passive"/>
+      <node ref="J1" pin="S2" pintype="passive"/>
+      <node ref="J1" pin="S3" pintype="passive"/>
+      <node ref="J1" pin="S4" pintype="passive"/>
+      <node ref="J10" pin="S1" pintype="passive"/>
+      <node ref="J10" pin="S2" pintype="passive"/>
+      <node ref="J10" pin="S3" pintype="passive"/>
+      <node ref="J10" pin="S4" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J12" pin="S1" pintype="passive"/>
+      <node ref="J12" pin="S2" pintype="passive"/>
+      <node ref="J12" pin="S3" pintype="passive"/>
+      <node ref="J12" pin="S4" pintype="passive"/>
+      <node ref="J13" pin="S1" pintype="passive"/>
+      <node ref="J13" pin="S2" pintype="passive"/>
+      <node ref="J13" pin="S3" pintype="passive"/>
+      <node ref="J13" pin="S4" pintype="passive"/>
+      <node ref="J2" pin="S1" pintype="passive"/>
+      <node ref="J2" pin="S2" pintype="passive"/>
+      <node ref="J2" pin="S3" pintype="passive"/>
+      <node ref="J2" pin="S4" pintype="passive"/>
+      <node ref="J3" pin="S1" pintype="passive"/>
+      <node ref="J3" pin="S2" pintype="passive"/>
+      <node ref="J3" pin="S3" pintype="passive"/>
+      <node ref="J3" pin="S4" pintype="passive"/>
+      <node ref="J4" pin="S1" pintype="passive"/>
+      <node ref="J4" pin="S2" pintype="passive"/>
+      <node ref="J4" pin="S3" pintype="passive"/>
+      <node ref="J4" pin="S4" pintype="passive"/>
+      <node ref="J5" pin="S1" pintype="passive"/>
+      <node ref="J5" pin="S2" pintype="passive"/>
+      <node ref="J5" pin="S3" pintype="passive"/>
+      <node ref="J5" pin="S4" pintype="passive"/>
+      <node ref="J6" pin="S1" pintype="passive"/>
+      <node ref="J6" pin="S2" pintype="passive"/>
+      <node ref="J6" pin="S3" pintype="passive"/>
+      <node ref="J6" pin="S4" pintype="passive"/>
+      <node ref="J7" pin="S1" pintype="passive"/>
+      <node ref="J7" pin="S2" pintype="passive"/>
+      <node ref="J7" pin="S3" pintype="passive"/>
+      <node ref="J7" pin="S4" pintype="passive"/>
+      <node ref="J8" pin="S1" pintype="passive"/>
+      <node ref="J8" pin="S2" pintype="passive"/>
+      <node ref="J8" pin="S3" pintype="passive"/>
+      <node ref="J8" pin="S4" pintype="passive"/>
+      <node ref="J9" pin="S1" pintype="passive"/>
+      <node ref="J9" pin="S2" pintype="passive"/>
+      <node ref="J9" pin="S3" pintype="passive"/>
+      <node ref="J9" pin="S4" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U15" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U15" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U15" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U15" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U15" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U15" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U16" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U16" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U16" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U16" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U16" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U16" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U17" pin="J2_14" pinfunction="GND_J2_14" pintype="power_in"/>
+      <node ref="U17" pin="J3_1" pinfunction="GND_J3_1" pintype="power_in"/>
+      <node ref="U17" pin="J3_7" pinfunction="GND_J3_7" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="123" name="Net-(U1-RFC)" class="Default">
+      <node ref="J8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="124" name="Net-(U5-J3)" class="Default">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="125" name="Net-(U5-RFC)" class="Default">
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="U5" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="126" name="Net-(U6-J3)" class="Default">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="127" name="Net-(U6-RFC)" class="Default">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="U6" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="128" name="Net-(U7-J3)" class="Default">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="129" name="Net-(U7-RFC)" class="Default">
+      <node ref="J12" pin="1" pintype="passive"/>
+      <node ref="U7" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="130" name="Net-(U8-J3)" class="Default">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="131" name="Net-(U8-RFC)" class="Default">
+      <node ref="J5" pin="1" pintype="passive"/>
+      <node ref="U8" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="132" name="Net-(U9-J3)" class="Default">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U9" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="133" name="Net-(U9-RFC)" class="Default">
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="U9" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="134" name="Net-(U10-J3)" class="Default">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="135" name="Net-(U10-RFC)" class="Default">
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="U10" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="136" name="Net-(U11-J3)" class="Default">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="137" name="Net-(U11-RFC)" class="Default">
+      <node ref="J6" pin="1" pintype="passive"/>
+      <node ref="U11" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="138" name="Net-(U12-J3)" class="Default">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U12" pin="3" pinfunction="J3" pintype="output"/>
+    </net>
+    <net code="139" name="Net-(U12-RFC)" class="Default">
+      <node ref="J7" pin="1" pintype="passive"/>
+      <node ref="U12" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="140" name="Net-(U13-RFC)" class="Default">
+      <node ref="J9" pin="1" pintype="passive"/>
+      <node ref="U13" pin="11" pinfunction="RFC" pintype="input"/>
+    </net>
+    <net code="141" name="Net-(U18-CLK)" class="Default">
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U18" pin="9" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="142" name="Net-(U18-VSS-Pad1)" class="Default">
+      <node ref="U18" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U18" pin="19" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U18" pin="8" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="143" name="VDD" class="Default">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U10" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U11" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U12" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U13" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U14" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U15" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U16" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U18" pin="20" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U8" pin="6" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U9" pin="6" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="144" name="unconnected-(J11-Pad2)" class="Default">
+      <node ref="J11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="145" name="unconnected-(U17-3V3-PadJ2_1)" class="Default">
+      <node ref="U17" pin="J2_1" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="146" name="unconnected-(U17-CLK-PadJ3_19)" class="Default">
+      <node ref="U17" pin="J3_19" pinfunction="CLK" pintype="bidirectional"/>
+    </net>
+    <net code="147" name="unconnected-(U17-CMD-PadJ2_18)" class="Default">
+      <node ref="U17" pin="J2_18" pinfunction="CMD" pintype="bidirectional"/>
+    </net>
+    <net code="148" name="unconnected-(U17-EN-PadJ2_2)" class="Default">
+      <node ref="U17" pin="J2_2" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="149" name="unconnected-(U17-EXT_5V-PadJ2_19)" class="Default">
+      <node ref="U17" pin="J2_19" pinfunction="EXT_5V" pintype="power_in"/>
+    </net>
+    <net code="150" name="unconnected-(U17-IO5-PadJ3_10)" class="Default">
+      <node ref="U17" pin="J3_10" pinfunction="IO5" pintype="bidirectional"/>
+    </net>
+    <net code="151" name="unconnected-(U17-IO12-PadJ2_13)" class="Default">
+      <node ref="U17" pin="J2_13" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="152" name="unconnected-(U17-IO13-PadJ2_15)" class="Default">
+      <node ref="U17" pin="J2_15" pinfunction="IO13" pintype="bidirectional"/>
+    </net>
+    <net code="153" name="unconnected-(U17-IO18-PadJ3_9)" class="Default">
+      <node ref="U17" pin="J3_9" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="154" name="unconnected-(U17-RXD0-PadJ3_5)" class="Default">
+      <node ref="U17" pin="J3_5" pinfunction="RXD0" pintype="bidirectional"/>
+    </net>
+    <net code="155" name="unconnected-(U17-SD0-PadJ3_18)" class="Default">
+      <node ref="U17" pin="J3_18" pinfunction="SD0" pintype="bidirectional"/>
+    </net>
+    <net code="156" name="unconnected-(U17-SD1-PadJ3_17)" class="Default">
+      <node ref="U17" pin="J3_17" pinfunction="SD1" pintype="bidirectional"/>
+    </net>
+    <net code="157" name="unconnected-(U17-SD2-PadJ2_16)" class="Default">
+      <node ref="U17" pin="J2_16" pinfunction="SD2" pintype="bidirectional"/>
+    </net>
+    <net code="158" name="unconnected-(U17-SD3-PadJ2_17)" class="Default">
+      <node ref="U17" pin="J2_17" pinfunction="SD3" pintype="bidirectional"/>
+    </net>
+    <net code="159" name="unconnected-(U17-SENSOR_VN-PadJ2_4)" class="Default">
+      <node ref="U17" pin="J2_4" pinfunction="SENSOR_VN" pintype="bidirectional"/>
+    </net>
+    <net code="160" name="unconnected-(U17-SENSOR_VP-PadJ2_3)" class="Default">
+      <node ref="U17" pin="J2_3" pinfunction="SENSOR_VP" pintype="bidirectional"/>
+    </net>
+    <net code="161" name="unconnected-(U17-TXD0-PadJ3_4)" class="Default">
+      <node ref="U17" pin="J3_4" pinfunction="TXD0" pintype="bidirectional"/>
+    </net>
+    <net code="162" name="unconnected-(U18-A0-Pad16)" class="Default">
+      <node ref="U18" pin="16" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="163" name="unconnected-(U18-A1-Pad17)" class="Default">
+      <node ref="U18" pin="17" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="164" name="unconnected-(U18-A2-Pad18)" class="Default">
+      <node ref="U18" pin="18" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="165" name="unconnected-(U18-SCL-Pad14)" class="Default">
+      <node ref="U18" pin="14" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="166" name="unconnected-(U18-~{INT}-Pad6)" class="Default">
+      <node ref="U18" pin="6" pinfunction="~{INT}" pintype="output"/>
+    </net>
+  </nets>
+</export>

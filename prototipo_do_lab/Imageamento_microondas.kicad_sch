@@ -1,0 +1,646 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "cdf0ef36-17ab-4910-af08-9c79f1680f36")
+	(paper "A4")
+	(lib_symbols)
+	(bus
+		(pts
+			(xy 168.91 116.84) (xy 173.99 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14587814-c9fa-424c-ad72-1ec3c40c248d")
+	)
+	(bus
+		(pts
+			(xy 76.2 107.95) (xy 76.2 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2517eaac-8d7d-45c6-959f-f86c05bc0ec7")
+	)
+	(bus
+		(pts
+			(xy 200.66 58.42) (xy 200.66 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "436d7ae4-7287-42aa-9363-9a0e24cb438e")
+	)
+	(bus
+		(pts
+			(xy 165.1 86.36) (xy 173.99 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a840ff0-17df-431f-a7f7-64a57708a9aa")
+	)
+	(bus
+		(pts
+			(xy 165.1 36.83) (xy 173.99 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bfc3317-9c30-4a75-a8e3-4b75d673cc72")
+	)
+	(bus
+		(pts
+			(xy 102.87 135.89) (xy 111.76 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b357286-ac6f-45aa-91d2-90eadb59589b")
+	)
+	(bus
+		(pts
+			(xy 168.91 106.68) (xy 168.91 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d082b49-6d9a-48be-b138-335a7fd7df3e")
+	)
+	(bus
+		(pts
+			(xy 200.66 107.95) (xy 200.66 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3379fab-98cb-4f26-bda4-d5ffab462528")
+	)
+	(bus
+		(pts
+			(xy 138.43 107.95) (xy 138.43 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c33bad9b-6c8d-42ea-9e57-76228e733b8b")
+	)
+	(bus
+		(pts
+			(xy 165.1 135.89) (xy 173.99 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8ed1e11-d176-455d-bb46-9240792caa82")
+	)
+	(bus
+		(pts
+			(xy 165.1 106.68) (xy 168.91 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9391729-f2a7-4043-ab5c-892c8d96ff2e")
+	)
+	(label "CE1_[1..2]"
+		(at 76.2 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "22b84516-814e-47b2-8d6d-8c538a6060c1")
+	)
+	(label "E2_[1..8]"
+		(at 166.37 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "22c93f38-227e-41f7-931d-6dbb8d965bb1")
+	)
+	(label "CE2_[1..6]"
+		(at 138.43 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d5feb09-4889-4e8e-9ac0-ee510730a5ed")
+	)
+	(label "E1_[1..3]"
+		(at 104.14 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e1ad2f2-f908-449c-883a-0fef727fdb1c")
+	)
+	(label "CA_[1..16]"
+		(at 168.91 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "77594500-251f-49ed-a8ac-13d1b57dd615")
+	)
+	(label "R1_[1..3]"
+		(at 200.66 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ae97edd3-2b31-4a96-9166-c82900644da2")
+	)
+	(label "CR1_[1..2]"
+		(at 165.1 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c8f3a26c-835f-4099-849d-96f656b68a9f")
+	)
+	(label "CR2_[1..6]"
+		(at 165.1 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "deed5e6e-0657-4025-82c0-a1682732b092")
+	)
+	(label "R2_[1..8]"
+		(at 200.66 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f497ed7f-554a-4df2-9679-a5f05fe2c67e")
+	)
+	(sheet
+		(at 49.53 115.57)
+		(size 53.34 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 152 255 155 1.0000)
+		)
+		(uuid "218992eb-2dd1-4a51-bca4-103611108c36")
+		(property "Sheetname" "primeira_camada_emissao"
+			(at 49.53 114.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "primeira_camada_emissao.kicad_sch"
+			(at 49.53 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "E1_[1..3]" output
+			(at 102.87 135.89 0)
+			(uuid "bb13227b-6536-41d3-b8d5-1e5b83c4bd1e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CE1_[1..2]" input
+			(at 76.2 115.57 90)
+			(uuid "bbc1c1ad-12ba-496d-aad8-b16122770cb7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Imageamento_microondas"
+				(path "/cdf0ef36-17ab-4910-af08-9c79f1680f36"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 115.57)
+		(size 53.34 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 152 255 155 1.0000)
+		)
+		(uuid "33d6fce6-0672-4cab-83d0-ba331bb35cfd")
+		(property "Sheetname" "camada_antena"
+			(at 173.99 114.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 173.99 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "E2_[1..8]" input
+			(at 173.99 135.89 180)
+			(uuid "0fd8668e-b676-4626-9c05-efa72f8315c0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R2_[1..8]" input
+			(at 200.66 115.57 90)
+			(uuid "3becdba5-f56d-444e-804b-c93a99fba1be")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CA_[1..16]" input
+			(at 173.99 116.84 180)
+			(uuid "524c8a2f-4b86-48e9-84c4-6a630ef25538")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Imageamento_microondas"
+				(path "/cdf0ef36-17ab-4910-af08-9c79f1680f36"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 66.04)
+		(size 53.34 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 152 255 155 1.0000)
+		)
+		(uuid "757b3b44-848b-4c23-b371-f6d5562e81c2")
+		(property "Sheetname" "segunda_camada_recepcao"
+			(at 173.99 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "segunda_camada_recepcao.kicad_sch"
+			(at 173.99 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "R1_[1..3]" input
+			(at 200.66 66.04 90)
+			(uuid "1815a66e-a038-483c-aca6-031f6c631f3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R2_[1..8]" output
+			(at 200.66 107.95 270)
+			(uuid "3e57069f-880a-497c-9627-e80f8b751d91")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CR2_[1..6]" input
+			(at 173.99 86.36 180)
+			(uuid "55be707f-c2f5-4fed-85ab-116cdf92a5d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Imageamento_microondas"
+				(path "/cdf0ef36-17ab-4910-af08-9c79f1680f36"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 16.51)
+		(size 53.34 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 152 255 155 1.0000)
+		)
+		(uuid "85709c9b-d5dd-4d95-813b-80ced6e70179")
+		(property "Sheetname" "primeira_camada_recepcao"
+			(at 173.99 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "primeira_camada_recepcao.kicad_sch"
+			(at 173.99 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "R1_[1..3]" output
+			(at 200.66 58.42 270)
+			(uuid "5b76f5e6-1f69-423b-a2b3-1a6f1b1689af")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CR1_[1..2]" input
+			(at 173.99 36.83 180)
+			(uuid "ae3aba5e-4f08-4527-9e6d-8a52b8ec4efe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Imageamento_microondas"
+				(path "/cdf0ef36-17ab-4910-af08-9c79f1680f36"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 49.53 16.51)
+		(size 115.57 91.44)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 202 251 1.0000)
+		)
+		(uuid "94333ec5-1b9c-4318-b308-51cf4235b858")
+		(property "Sheetname" "arbitragem"
+			(at 49.53 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "arbitragem.kicad_sch"
+			(at 49.53 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CE1_[1..2]" output
+			(at 76.2 107.95 270)
+			(uuid "e928cce6-d2b4-4f90-99df-52dfb113cbde")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CR1_[1..2]" output
+			(at 165.1 36.83 0)
+			(uuid "b0f6a084-830f-4640-a1c3-750630485509")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CR2_[1..6]" output
+			(at 165.1 86.36 0)
+			(uuid "f98027f7-3d55-4ab7-abe6-c5960c655ff9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CE2_[1..6]" output
+			(at 138.43 107.95 270)
+			(uuid "8625e9f2-75ec-4764-a441-1d5ca1792ba8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CA_[1..16]" output
+			(at 165.1 106.68 0)
+			(uuid "b3ffdf78-a7e3-426d-b924-f41f0f5350ad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Imageamento_microondas"
+				(path "/cdf0ef36-17ab-4910-af08-9c79f1680f36"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 115.57)
+		(size 53.34 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 152 255 155 1.0000)
+		)
+		(uuid "a7fe8057-6f0f-4e37-ad3c-e9fddf940a5e")
+		(property "Sheetname" "segunda_camada_emissao"
+			(at 111.76 114.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "segunda_camada_emissao.kicad_sch"
+			(at 111.76 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "E2_[1..8]" output
+			(at 165.1 135.89 0)
+			(uuid "4d990e14-26fd-4af5-a61c-440cc5095a87")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "E1_[1..3]" input
+			(at 111.76 135.89 180)
+			(uuid "a44728a2-8e3d-46ed-96ba-90e0117e9e92")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CE2_[1..6]" input
+			(at 138.43 115.57 90)
+			(uuid "9a8175f4-7aad-4330-984f-59dbc34cbc5e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Imageamento_microondas"
+				(path "/cdf0ef36-17ab-4910-af08-9c79f1680f36"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

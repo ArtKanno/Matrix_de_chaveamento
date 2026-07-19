@@ -1,0 +1,1364 @@
+UNITS=MM
+
+#
+#Feature attribute names
+#
+@0 .comp_mount_type
+
+#
+#Feature attribute text strings
+#
+# CMP 0
+CMP 0 138.1250 -159.1250 0 N J8 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 135.6250 -161.50 0.0 N 59 0 S4
+TOP 1 140.6250 -161.50 0.0 N 59 1 S3
+TOP 2 140.6250 -159.0 270.0 N 59 2 S2
+TOP 3 135.6250 -159.0 0.0 N 59 3 S1
+TOP 4 138.1250 -159.0 0.0 N 60 0 1
+#
+# CMP 1
+CMP 1 208.80 -69.60 0 N C15 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 208.320 -69.60 0.0 N 59 4 1
+TOP 1 209.280 -69.60 0.0 N 31 0 2
+#
+# CMP 2
+CMP 2 156.60 -69.750 11.0 N J3 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 156.623851 -69.627297 11.0 N 62 0 1
+TOP 1 154.169783 -69.150274 11.0 N 59 5 S1
+TOP 2 159.077919 -70.104319 281.0 N 59 6 S2
+TOP 3 158.600897 -72.558387 11.0 N 59 7 S3
+TOP 4 153.692761 -71.604342 11.0 N 59 8 S4
+#
+# CMP 3
+CMP 3 138.202697 -50.20 0 N U15 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 137.162697 -49.70 0.0 N 51 0 1
+TOP 1 137.162697 -50.20 0.0 N 59 9 2
+TOP 2 137.162697 -50.70 0.0 N 52 0 3
+TOP 3 137.702697 -51.240 0.0 N 29 0 4
+TOP 4 138.202697 -51.240 0.0 N 30 0 5
+TOP 5 138.702697 -51.240 0.0 N 80 0 6
+TOP 6 139.242697 -50.70 0.0 N 59 10 7
+TOP 7 139.242697 -50.20 0.0 N 59 11 8
+TOP 8 139.242697 -49.70 0.0 N 50 0 9
+TOP 9 138.702697 -49.160 0.0 N 59 12 10
+TOP 10 138.202697 -49.160 0.0 N 45 0 11
+TOP 11 137.702697 -49.160 0.0 N 59 13 12
+TOP 12 138.202697 -50.20 0.0 N 59 14 13
+#
+# CMP 4
+CMP 4 232.857235 -146.10 78.50 N J6 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 232.979726 -146.075079 78.50 N 64 0 1
+TOP 1 232.481306 -143.625267 78.50 N 59 15 S1
+TOP 2 233.478145 -148.524891 348.50 N 59 16 S2
+TOP 3 231.028334 -149.023311 78.50 N 59 17 S3
+TOP 4 230.031494 -144.123687 78.50 N 59 18 S4
+#
+# CMP 5
+CMP 1 92.350 -125.950 0 N C4 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 91.870 -125.950 0.0 N 20 0 1
+TOP 1 92.830 -125.950 0.0 N 59 19 2
+#
+# CMP 6
+CMP 5 118.650 -69.574596 350.0 N J4 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 118.628294 -69.451495 350.0 N 79 0 1
+TOP 1 116.166275 -69.885615 350.0 N 59 20 S1
+TOP 2 121.090313 -69.017375 260.0 N 59 21 S2
+TOP 3 121.524434 -71.479394 350.0 N 59 22 S3
+TOP 4 116.600395 -72.347635 350.0 N 59 23 S4
+#
+# CMP 7
+CMP 3 218.288809 -119.073512 0 N U12 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 217.248809 -118.573512 0.0 N 43 0 1
+TOP 1 217.248809 -119.073512 0.0 N 59 24 2
+TOP 2 217.248809 -119.573512 0.0 N 65 0 3
+TOP 3 217.788809 -120.113512 0.0 N 7 0 4
+TOP 4 218.288809 -120.113512 0.0 N 8 0 5
+TOP 5 218.788809 -120.113512 0.0 N 80 1 6
+TOP 6 219.328809 -119.573512 0.0 N 59 25 7
+TOP 7 219.328809 -119.073512 0.0 N 59 26 8
+TOP 8 219.328809 -118.573512 0.0 N 54 0 9
+TOP 9 218.788809 -118.033512 0.0 N 59 27 10
+TOP 10 218.288809 -118.033512 0.0 N 66 0 11
+TOP 11 217.788809 -118.033512 0.0 N 59 28 12
+TOP 12 218.288809 -119.073512 0.0 N 59 29 13
+#
+# CMP 8
+CMP 1 212.40 -69.60 0 N C16 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 211.920 -69.60 0.0 N 32 0 1
+TOP 1 212.880 -69.60 0.0 N 59 30 2
+#
+# CMP 9
+CMP 1 58.602298 -151.50 0 N C30 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 58.122298 -151.50 0.0 N 11 0 1
+TOP 1 59.082298 -151.50 0.0 N 59 31 2
+#
+# CMP 10
+CMP 3 191.50 -92.250 0 N U8 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 190.460 -91.750 0.0 N 39 0 1
+TOP 1 190.460 -92.250 0.0 N 59 32 2
+TOP 2 190.460 -92.750 0.0 N 76 0 3
+TOP 3 191.0 -93.290 0.0 N 14 0 4
+TOP 4 191.50 -93.290 0.0 N 15 0 5
+TOP 5 192.0 -93.290 0.0 N 80 2 6
+TOP 6 192.540 -92.750 0.0 N 59 33 7
+TOP 7 192.540 -92.250 0.0 N 59 34 8
+TOP 8 192.540 -91.750 0.0 N 50 1 9
+TOP 9 192.0 -91.210 0.0 N 59 35 10
+TOP 10 191.50 -91.210 0.0 N 77 0 11
+TOP 11 191.0 -91.210 0.0 N 59 36 12
+TOP 12 191.50 -92.250 0.0 N 59 37 13
+#
+# CMP 11
+CMP 6 222.960 -153.950 90.0 N C46 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 222.960 -153.470 90.0 N 80 3 1
+TOP 1 222.960 -154.430 90.0 N 59 38 2
+#
+# CMP 12
+CMP 1 221.860 -151.450 0 N C40 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 221.380 -151.450 0.0 N 6 0 1
+TOP 1 222.340 -151.450 0.0 N 59 39 2
+#
+# CMP 13
+CMP 1 160.200758 -81.462483 0 N C34 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 159.720758 -81.462483 0.0 N 4 0 1
+TOP 1 160.680758 -81.462483 0.0 N 59 40 2
+#
+# CMP 14
+CMP 7 134.50 -98.350 180.0 N C19 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 134.980 -98.350 180.0 N 80 4 1
+TOP 1 134.020 -98.350 180.0 N 59 41 2
+#
+# CMP 15
+CMP 8 42.219542 -146.032748 281.50 N J1 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 42.097051 -146.007827 281.50 N 73 0 1
+TOP 1 41.598632 -148.457639 281.50 N 59 42 S1
+TOP 2 42.595471 -143.558015 191.50 N 59 43 S2
+TOP 3 45.045283 -144.056435 281.50 N 59 44 S3
+TOP 4 44.048443 -148.956059 281.50 N 59 45 S4
+#
+# CMP 16
+CMP 3 220.060 -147.550 0 N U11 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 219.020 -147.050 0.0 N 53 0 1
+TOP 1 219.020 -147.550 0.0 N 59 46 2
+TOP 2 219.020 -148.050 0.0 N 63 0 3
+TOP 3 219.560 -148.590 0.0 N 5 0 4
+TOP 4 220.060 -148.590 0.0 N 6 1 5
+TOP 5 220.560 -148.590 0.0 N 80 5 6
+TOP 6 221.10 -148.050 0.0 N 59 47 7
+TOP 7 221.10 -147.550 0.0 N 59 48 8
+TOP 8 221.10 -147.050 0.0 N 42 0 9
+TOP 9 220.560 -146.510 0.0 N 59 49 10
+TOP 10 220.060 -146.510 0.0 N 64 1 11
+TOP 11 219.560 -146.510 0.0 N 59 50 12
+TOP 12 220.060 -147.550 0.0 N 59 51 13
+#
+# CMP 17
+CMP 1 156.600758 -81.462483 0 N C33 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 156.120758 -81.462483 0.0 N 59 52 1
+TOP 1 157.080758 -81.462483 0.0 N 3 0 2
+#
+# CMP 18
+CMP 1 124.128345 -77.574065 0 N C48 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 123.648345 -77.574065 0.0 N 80 6 1
+TOP 1 124.608345 -77.574065 0.0 N 59 53 2
+#
+# CMP 19
+CMP 1 216.0 -69.60 0 N C23 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 215.520 -69.60 0.0 N 80 7 1
+TOP 1 216.480 -69.60 0.0 N 59 54 2
+#
+# CMP 20
+CMP 7 134.50 -125.950 180.0 N C17 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 134.980 -125.950 180.0 N 80 8 1
+TOP 1 134.020 -125.950 180.0 N 59 55 2
+#
+# CMP 21
+CMP 9 74.6350 -42.70 270.0 N U17 ESP32_MODULE_ESP32-DEVKITC-32E ;0=2
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/ESP32-DEVKITC-32E/Espressif+Systems/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'The ESP32-DEVKITC-32E transceiver evaluation board from Espressif Systems is a powerful development tool for wireless communication technologies. It supports 802.11 b/g/n Wi-Fi and Bluetooth® Smart Ready 4.x (BLE) dual-mode at 2.4GHz, making it ideal for a variety of IoT applications. Equipped with a PCB antenna and 4MB flash, this board provides reliable connectivity and ample memory for developing and testing RF, RFID, and wireless solutions.'
+PRP MANUFACTURER 'Espressif Systems'
+PRP MF 'Espressif Systems'
+PRP MP 'ESP32-DEVKITC-32E'
+PRP PARTREV '1.4'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4719025&manufacturer=Espressif Systems&part_name=ESP32-DEVKITC-32E&search_term=None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/ESP32-DEVKITC-32E/Espressif+Systems/view-part/?ref=snap'
+PRP Value 'ESP32-DEVKITC-32E'
+TOP 0 51.80 -55.40 270.0 N 82 0 J2_1
+TOP 1 54.340 -55.40 270.0 N 85 0 J2_2
+TOP 2 56.880 -55.40 270.0 N 97 0 J2_3
+TOP 3 59.420 -55.40 270.0 N 96 0 J2_4
+TOP 4 61.960 -55.40 270.0 N 10 0 J2_5
+TOP 5 64.50 -55.40 270.0 N 11 1 J2_6
+TOP 6 67.040 -55.40 270.0 N 12 0 J2_7
+TOP 7 69.580 -55.40 270.0 N 13 0 J2_8
+TOP 8 72.120 -55.40 270.0 N 27 0 J2_9
+TOP 9 74.660 -55.40 270.0 N 28 0 J2_10
+TOP 10 77.20 -55.40 270.0 N 1 0 J2_11
+TOP 11 79.740 -55.40 270.0 N 9 0 J2_12
+TOP 12 82.280 -55.40 270.0 N 87 0 J2_13
+TOP 13 84.820 -55.40 270.0 N 59 56 J2_14
+TOP 14 87.360 -55.40 270.0 N 88 0 J2_15
+TOP 15 89.90 -55.40 270.0 N 94 0 J2_16
+TOP 16 92.440 -55.40 270.0 N 95 0 J2_17
+TOP 17 94.980 -55.40 270.0 N 84 0 J2_18
+TOP 18 97.520 -55.40 270.0 N 86 0 J2_19
+TOP 19 51.80 -30.0 270.0 N 59 57 J3_1
+TOP 20 54.340 -30.0 270.0 N 56 0 J3_2
+TOP 21 56.880 -30.0 270.0 N 20 1 J3_3
+TOP 22 59.420 -30.0 270.0 N 98 0 J3_4
+TOP 23 61.960 -30.0 270.0 N 91 0 J3_5
+TOP 24 64.50 -30.0 270.0 N 19 0 J3_6
+TOP 25 67.040 -30.0 270.0 N 59 58 J3_7
+TOP 26 69.580 -30.0 270.0 N 55 0 J3_8
+TOP 27 72.120 -30.0 270.0 N 89 0 J3_9
+TOP 28 74.660 -30.0 270.0 N 90 0 J3_10
+TOP 29 77.20 -30.0 270.0 N 16 0 J3_11
+TOP 30 79.740 -30.0 270.0 N 2 0 J3_12
+TOP 31 82.280 -30.0 270.0 N 18 0 J3_13
+TOP 32 84.820 -30.0 270.0 N 17 0 J3_14
+TOP 33 87.360 -30.0 270.0 N 22 0 J3_15
+TOP 34 89.90 -30.0 270.0 N 21 0 J3_16
+TOP 35 92.440 -30.0 270.0 N 93 0 J3_17
+TOP 36 94.980 -30.0 270.0 N 92 0 J3_18
+TOP 37 97.520 -30.0 270.0 N 83 0 J3_19
+#
+# CMP 22
+CMP 1 60.550 -76.90 0 N C11 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 60.070 -76.90 0.0 N 59 59 1
+TOP 1 61.030 -76.90 0.0 N 27 1 2
+#
+# CMP 23
+CMP 1 196.986799 -92.250 0 N C45 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 196.506799 -92.250 0.0 N 80 9 1
+TOP 1 197.466799 -92.250 0.0 N 59 60 2
+#
+# CMP 24
+CMP 10 92.361883 -129.601843 180.0 N U2 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 93.401883 -130.101843 180.0 N 36 0 1
+TOP 1 93.401883 -129.601843 180.0 N 59 61 2
+TOP 2 93.401883 -129.101843 180.0 N 38 0 3
+TOP 3 92.861883 -128.561843 180.0 N 19 1 4
+TOP 4 92.361883 -128.561843 180.0 N 20 2 5
+TOP 5 91.861883 -128.561843 180.0 N 80 10 6
+TOP 6 91.321883 -129.101843 180.0 N 59 62 7
+TOP 7 91.321883 -129.601843 180.0 N 59 63 8
+TOP 8 91.321883 -130.101843 180.0 N 37 0 9
+TOP 9 91.861883 -130.641843 180.0 N 59 64 10
+TOP 10 92.361883 -130.641843 180.0 N 33 0 11
+TOP 11 92.861883 -130.641843 180.0 N 59 65 12
+TOP 12 92.361883 -129.601843 180.0 N 59 66 13
+#
+# CMP 25
+CMP 1 83.667384 -95.862666 0 N C27 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 83.187384 -95.862666 0.0 N 59 67 1
+TOP 1 84.147384 -95.862666 0.0 N 1 1 2
+#
+# CMP 26
+CMP 1 67.750 -76.90 0 N C21 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 67.270 -76.90 0.0 N 80 11 1
+TOP 1 68.230 -76.90 0.0 N 59 68 2
+#
+# CMP 27
+CMP 11 160.70 -23.150 0 N J9 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 160.70 -23.0250 0.0 N 67 0 1
+TOP 1 158.20 -23.0250 0.0 N 59 69 S1
+TOP 2 163.20 -23.0250 270.0 N 59 70 S2
+TOP 3 163.20 -25.5250 0.0 N 59 71 S3
+TOP 4 158.20 -25.5250 0.0 N 59 72 S4
+#
+# CMP 28
+CMP 12 211.490 -39.30 0 N R9 Resistor_SMD_R_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 210.980 -39.30 0.0 N 80 12 1
+TOP 1 212.0 -39.30 0.0 N 68 0 2
+#
+# CMP 29
+CMP 1 219.480 -151.450 0 N C39 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 219.0 -151.450 0.0 N 59 73 1
+TOP 1 219.960 -151.450 0.0 N 5 1 2
+#
+# CMP 30
+CMP 3 56.786428 -118.951575 0 N U7 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 55.746428 -118.451575 0.0 N 38 1 1
+TOP 1 55.746428 -118.951575 0.0 N 59 74 2
+TOP 2 55.746428 -119.451575 0.0 N 74 0 3
+TOP 3 56.286428 -119.991575 0.0 N 12 1 4
+TOP 4 56.786428 -119.991575 0.0 N 13 1 5
+TOP 5 57.286428 -119.991575 0.0 N 80 13 6
+TOP 6 57.826428 -119.451575 0.0 N 59 75 7
+TOP 7 57.826428 -118.951575 0.0 N 59 76 8
+TOP 8 57.826428 -118.451575 0.0 N 49 0 9
+TOP 9 57.286428 -117.911575 0.0 N 59 77 10
+TOP 10 56.786428 -117.911575 0.0 N 75 0 11
+TOP 11 56.286428 -117.911575 0.0 N 59 78 12
+TOP 12 56.786428 -118.951575 0.0 N 59 79 13
+#
+# CMP 31
+CMP 7 141.70 -98.350 180.0 N C5 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 142.180 -98.350 180.0 N 59 80 1
+TOP 1 141.220 -98.350 180.0 N 21 1 2
+#
+# CMP 32
+CMP 1 141.80 -53.90 0 N C22 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 141.320 -53.90 0.0 N 80 14 1
+TOP 1 142.280 -53.90 0.0 N 59 81 2
+#
+# CMP 33
+CMP 7 179.60 -125.450 180.0 N C20 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 180.080 -125.450 180.0 N 80 15 1
+TOP 1 179.120 -125.450 180.0 N 59 82 2
+#
+# CMP 34
+CMP 1 191.50 -99.372813 0 N R6 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 191.020 -99.372813 0.0 N 76 1 1
+TOP 1 191.980 -99.372813 0.0 N 59 83 2
+#
+# CMP 35
+CMP 12 118.641546 -84.696878 0 N R5 Resistor_SMD_R_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 118.131546 -84.696878 0.0 N 78 0 1
+TOP 1 119.151546 -84.696878 0.0 N 59 84 2
+#
+# CMP 36
+CMP 1 218.288809 -122.773512 0 N C41 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 217.808809 -122.773512 0.0 N 59 85 1
+TOP 1 218.768809 -122.773512 0.0 N 7 1 2
+#
+# CMP 37
+CMP 3 64.150903 -73.20 0 N U14 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 63.110903 -72.70 0.0 N 48 0 1
+TOP 1 63.110903 -73.20 0.0 N 59 86 2
+TOP 2 63.110903 -73.70 0.0 N 49 1 3
+TOP 3 63.650903 -74.240 0.0 N 27 2 4
+TOP 4 64.150903 -74.240 0.0 N 28 1 5
+TOP 5 64.650903 -74.240 0.0 N 80 16 6
+TOP 6 65.190903 -73.70 0.0 N 59 87 7
+TOP 7 65.190903 -73.20 0.0 N 59 88 8
+TOP 8 65.190903 -72.70 0.0 N 47 0 9
+TOP 9 64.650903 -72.160 0.0 N 59 89 10
+TOP 10 64.150903 -72.160 0.0 N 44 0 11
+TOP 11 63.650903 -72.160 0.0 N 59 90 12
+TOP 12 64.150903 -73.20 0.0 N 59 91 13
+#
+# CMP 38
+CMP 1 118.641546 -81.274065 0 N C35 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 118.161546 -81.274065 0.0 N 59 92 1
+TOP 1 119.121546 -81.274065 0.0 N 16 1 2
+#
+# CMP 39
+CMP 13 191.50 -84.250 37.50 N J5 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 191.576095 -84.150831 37.50 N 77 1 1
+TOP 1 189.592712 -82.628927 37.50 N 59 93 S1
+TOP 2 193.559479 -85.672734 307.50 N 59 94 S2
+TOP 3 192.037575 -87.656118 37.50 N 59 95 S3
+TOP 4 188.070808 -84.612311 37.50 N 59 96 S4
+#
+# CMP 40
+CMP 1 138.20 -35.850 0 N C10 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 137.720 -35.850 0.0 N 26 0 1
+TOP 1 138.680 -35.850 0.0 N 59 97 2
+#
+# CMP 41
+CMP 1 138.20 -53.761407 0 N C14 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 137.720 -53.761407 0.0 N 30 1 1
+TOP 1 138.680 -53.761407 0.0 N 59 98 2
+#
+# CMP 42
+CMP 12 156.600758 -84.885296 0 N R4 Resistor_SMD_R_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 156.090758 -84.885296 0.0 N 61 0 1
+TOP 1 157.110758 -84.885296 0.0 N 59 99 2
+#
+# CMP 43
+CMP 1 122.241546 -81.274065 0 N C36 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 121.761546 -81.274065 0.0 N 2 1 1
+TOP 1 122.721546 -81.274065 0.0 N 59 100 2
+#
+# CMP 44
+CMP 14 218.282080 -111.033548 55.0 N J7 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 218.384474 -110.961851 55.0 N 66 1 1
+TOP 1 216.950533 -108.913971 55.0 N 59 101 S1
+TOP 2 219.818415 -113.009731 325.0 N 59 102 S2
+TOP 3 217.770535 -114.443672 55.0 N 59 103 S3
+TOP 4 214.902653 -110.347912 55.0 N 59 104 S4
+#
+# CMP 45
+CMP 11 191.3250 -60.1750 0 N J13 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 191.3250 -60.050 0.0 N 58 0 1
+TOP 1 188.8250 -60.050 0.0 N 59 105 S1
+TOP 2 193.8250 -60.050 270.0 N 59 106 S2
+TOP 3 193.8250 -62.550 0.0 N 59 107 S3
+TOP 4 188.8250 -62.550 0.0 N 59 108 S4
+#
+# CMP 46
+CMP 1 183.20 -125.450 0 N C8 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 182.720 -125.450 0.0 N 24 0 1
+TOP 1 183.680 -125.450 0.0 N 59 109 2
+#
+# CMP 47
+CMP 15 83.650584 -84.139855 328.0 N J2 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 83.584344 -84.033849 328.0 N 71 0 1
+TOP 1 81.464224 -85.358647 328.0 N 59 110 S1
+TOP 2 85.704464 -82.709051 238.0 N 59 111 S2
+TOP 3 87.029262 -84.829171 328.0 N 59 112 S3
+TOP 4 82.789022 -87.478767 328.0 N 59 113 S4
+#
+# CMP 48
+CMP 12 218.288809 -126.196325 0 N R8 Resistor_SMD_R_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 217.778809 -126.196325 0.0 N 65 1 1
+TOP 1 218.798809 -126.196325 0.0 N 59 114 2
+#
+# CMP 49
+CMP 7 88.270 -125.950 180.0 N C18 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 88.750 -125.950 180.0 N 80 17 1
+TOP 1 87.790 -125.950 180.0 N 59 115 2
+#
+# CMP 50
+CMP 1 221.888809 -122.773512 0 N C42 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 221.408809 -122.773512 0.0 N 8 1 1
+TOP 1 222.368809 -122.773512 0.0 N 59 116 2
+#
+# CMP 51
+CMP 16 209.650 -32.4370 270.0 N U18 Extensor_DIP787W46P254L3467H508Q28 ;0=2
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/MCP23016-I/SP/Microchip+Technology/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'Microchip MCP23016-I/SP, 16-channel I/O Expander, I2C, 28-Pin SPDIP | Microchip Technology Inc. MCP23016-I/SP'
+PRP MF 'Microchip'
+PRP MP 'MCP23016-I/SP'
+PRP Package 'SPDIP-28 Microchip'
+PRP Price 'None'
+PRP Purchase-URL 'https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=455731&manufacturer=Microchip&part_name=MCP23016-I/SP&search_term=None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MCP23016-I/SP/Microchip+Technology/view-part/?ref=snap'
+PRP Value 'MCP23016-I_SP'
+TOP 0 193.140 -36.3740 270.0 N 69 0 1
+TOP 1 195.680 -36.3740 270.0 N 14 1 2
+TOP 2 198.220 -36.3740 270.0 N 15 1 3
+TOP 3 200.760 -36.3740 270.0 N 31 1 4
+TOP 4 203.30 -36.3740 270.0 N 32 1 5
+TOP 5 205.840 -36.3740 270.0 N 103 0 6
+TOP 6 208.380 -36.3740 270.0 N 7 2 7
+TOP 7 210.920 -36.3740 270.0 N 69 1 8
+TOP 8 213.460 -36.3740 270.0 N 68 1 9
+TOP 9 216.0 -36.3740 270.0 N 56 1 10
+TOP 10 218.540 -36.3740 270.0 N 8 2 11
+TOP 11 221.080 -36.3740 270.0 N 5 2 12
+TOP 12 223.620 -36.3740 270.0 N 6 2 13
+TOP 13 226.160 -36.3740 270.0 N 102 0 14
+TOP 14 226.160 -28.50 270.0 N 55 1 15
+TOP 15 223.620 -28.50 270.0 N 99 0 16
+TOP 16 221.080 -28.50 270.0 N 100 0 17
+TOP 17 218.540 -28.50 270.0 N 101 0 18
+TOP 18 216.0 -28.50 270.0 N 69 2 19
+TOP 19 213.460 -28.50 270.0 N 80 18 20
+TOP 20 210.920 -28.50 270.0 N 23 0 21
+TOP 21 208.380 -28.50 270.0 N 24 1 22
+TOP 22 205.840 -28.50 270.0 N 4 1 23
+TOP 23 203.30 -28.50 270.0 N 3 1 24
+TOP 24 200.760 -28.50 270.0 N 30 2 25
+TOP 25 198.220 -28.50 270.0 N 29 1 26
+TOP 26 195.680 -28.50 270.0 N 25 0 27
+TOP 27 193.140 -28.50 270.0 N 26 1 28
+#
+# CMP 52
+CMP 1 87.257384 -95.862666 0 N C28 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 86.777384 -95.862666 0.0 N 9 1 1
+TOP 1 87.737384 -95.862666 0.0 N 59 117 2
+#
+# CMP 53
+CMP 7 186.80 -125.450 180.0 N C7 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 187.280 -125.450 180.0 N 59 118 1
+TOP 1 186.320 -125.450 180.0 N 23 1 2
+#
+# CMP 54
+CMP 10 183.219019 -129.161843 180.0 N U4 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 184.259019 -129.661843 180.0 N 42 1 1
+TOP 1 184.259019 -129.161843 180.0 N 59 119 2
+TOP 2 184.259019 -128.661843 180.0 N 43 1 3
+TOP 3 183.719019 -128.121843 180.0 N 23 2 4
+TOP 4 183.219019 -128.121843 180.0 N 24 2 5
+TOP 5 182.719019 -128.121843 180.0 N 80 19 6
+TOP 6 182.179019 -128.661843 180.0 N 59 120 7
+TOP 7 182.179019 -129.161843 180.0 N 59 121 8
+TOP 8 182.179019 -129.661843 180.0 N 57 0 9
+TOP 9 182.719019 -130.201843 180.0 N 59 122 10
+TOP 10 183.219019 -130.201843 180.0 N 35 0 11
+TOP 11 183.719019 -130.201843 180.0 N 59 123 12
+TOP 12 183.219019 -129.161843 180.0 N 59 124 13
+#
+# CMP 55
+CMP 1 64.150 -76.90 0 N C12 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 63.670 -76.90 0.0 N 28 2 1
+TOP 1 64.630 -76.90 0.0 N 59 125 2
+#
+# CMP 56
+CMP 1 162.087557 -77.762483 0 N C44 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 161.607557 -77.762483 0.0 N 80 20 1
+TOP 1 162.567557 -77.762483 0.0 N 59 126 2
+#
+# CMP 57
+CMP 12 83.657384 -99.285479 0 N R1 Resistor_SMD_R_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 83.147384 -99.285479 0.0 N 70 0 1
+TOP 1 84.167384 -99.285479 0.0 N 59 127 2
+#
+# CMP 58
+CMP 12 56.728363 -126.101946 0 N R3 Resistor_SMD_R_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 56.218363 -126.101946 0.0 N 74 1 1
+TOP 1 57.238363 -126.101946 0.0 N 59 128 2
+#
+# CMP 59
+CMP 3 156.600758 -77.762483 0 N U10 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 155.560758 -77.262483 0.0 N 41 0 1
+TOP 1 155.560758 -77.762483 0.0 N 59 129 2
+TOP 2 155.560758 -78.262483 0.0 N 61 1 3
+TOP 3 156.100758 -78.802483 0.0 N 3 2 4
+TOP 4 156.600758 -78.802483 0.0 N 4 2 5
+TOP 5 157.100758 -78.802483 0.0 N 80 21 6
+TOP 6 157.640758 -78.262483 0.0 N 59 130 7
+TOP 7 157.640758 -77.762483 0.0 N 59 131 8
+TOP 8 157.640758 -77.262483 0.0 N 52 1 9
+TOP 9 157.100758 -76.722483 0.0 N 59 132 10
+TOP 10 156.600758 -76.722483 0.0 N 62 1 11
+TOP 11 156.100758 -76.722483 0.0 N 59 133 12
+TOP 12 156.600758 -77.762483 0.0 N 59 134 13
+#
+# CMP 60
+CMP 1 191.50 -95.950 0 N C37 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 191.020 -95.950 0.0 N 59 135 1
+TOP 1 191.980 -95.950 0.0 N 14 2 2
+#
+# CMP 61
+CMP 1 134.60 -35.850 0 N C9 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 134.120 -35.850 0.0 N 59 136 1
+TOP 1 135.080 -35.850 0.0 N 25 1 2
+#
+# CMP 62
+CMP 1 215.620 -39.30 0 N C50 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 215.140 -39.30 0.0 N 68 2 1
+TOP 1 216.10 -39.30 0.0 N 59 137 2
+#
+# CMP 63
+CMP 1 56.797396 -122.651946 0 N C31 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 56.317396 -122.651946 0.0 N 59 138 1
+TOP 1 57.277396 -122.651946 0.0 N 12 2 2
+#
+# CMP 64
+CMP 3 118.641546 -77.574065 0 N U9 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 117.601546 -77.074065 0.0 N 40 0 1
+TOP 1 117.601546 -77.574065 0.0 N 59 139 2
+TOP 2 117.601546 -78.074065 0.0 N 78 1 3
+TOP 3 118.141546 -78.614065 0.0 N 16 2 4
+TOP 4 118.641546 -78.614065 0.0 N 2 2 5
+TOP 5 119.141546 -78.614065 0.0 N 80 22 6
+TOP 6 119.681546 -78.074065 0.0 N 59 140 7
+TOP 7 119.681546 -77.574065 0.0 N 59 141 8
+TOP 8 119.681546 -77.074065 0.0 N 51 1 9
+TOP 9 119.141546 -76.534065 0.0 N 59 142 10
+TOP 10 118.641546 -76.534065 0.0 N 79 1 11
+TOP 11 118.141546 -76.534065 0.0 N 59 143 12
+TOP 12 118.641546 -77.574065 0.0 N 59 144 13
+#
+# CMP 65
+CMP 1 89.144183 -92.162666 0 N C25 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 88.664183 -92.162666 0.0 N 80 23 1
+TOP 1 89.624183 -92.162666 0.0 N 59 145 2
+#
+# CMP 66
+CMP 3 138.202697 -32.150 0 N U13 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 137.162697 -31.650 0.0 N 44 1 1
+TOP 1 137.162697 -32.150 0.0 N 59 146 2
+TOP 2 137.162697 -32.650 0.0 N 45 1 3
+TOP 3 137.702697 -33.190 0.0 N 25 2 4
+TOP 4 138.202697 -33.190 0.0 N 26 2 5
+TOP 5 138.702697 -33.190 0.0 N 80 24 6
+TOP 6 139.242697 -32.650 0.0 N 59 147 7
+TOP 7 139.242697 -32.150 0.0 N 59 148 8
+TOP 8 139.242697 -31.650 0.0 N 46 0 9
+TOP 9 138.702697 -31.110 0.0 N 59 149 10
+TOP 10 138.202697 -31.110 0.0 N 67 1 11
+TOP 11 137.702697 -31.110 0.0 N 59 150 12
+TOP 12 138.202697 -32.150 0.0 N 59 151 13
+#
+# CMP 67
+CMP 3 212.413271 -65.850 0 N U16 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 211.373271 -65.350 0.0 N 58 1 1
+TOP 1 211.373271 -65.850 0.0 N 59 152 2
+TOP 2 211.373271 -66.350 0.0 N 54 1 3
+TOP 3 211.913271 -66.890 0.0 N 31 2 4
+TOP 4 212.413271 -66.890 0.0 N 32 2 5
+TOP 5 212.913271 -66.890 0.0 N 80 25 6
+TOP 6 213.453271 -66.350 0.0 N 59 153 7
+TOP 7 213.453271 -65.850 0.0 N 59 154 8
+TOP 8 213.453271 -65.350 0.0 N 53 1 9
+TOP 9 212.913271 -64.810 0.0 N 59 155 10
+TOP 10 212.413271 -64.810 0.0 N 46 1 11
+TOP 11 211.913271 -64.810 0.0 N 59 156 12
+TOP 12 212.413271 -65.850 0.0 N 59 157 13
+#
+# CMP 68
+CMP 1 55.012298 -151.50 0 N C29 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 54.532298 -151.50 0.0 N 59 158 1
+TOP 1 55.492298 -151.50 0.0 N 10 1 2
+#
+# CMP 69
+CMP 17 56.769266 -110.956767 307.0 N J12 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 56.669437 -110.881540 307.0 N 75 1 1
+TOP 1 55.164899 -112.878129 307.0 N 59 159 S1
+TOP 2 58.173974 -108.884951 217.0 N 59 160 S2
+TOP 3 60.170563 -110.389489 307.0 N 59 161 S3
+TOP 4 57.161488 -114.382666 307.0 N 59 162 S4
+#
+# CMP 70
+CMP 12 220.060 -154.672813 0 N R7 Resistor_SMD_R_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 219.550 -154.672813 0.0 N 63 1 1
+TOP 1 220.570 -154.672813 0.0 N 59 163 2
+#
+# CMP 71
+CMP 1 195.10 -95.950 0 N C38 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 194.620 -95.950 0.0 N 15 2 1
+TOP 1 195.580 -95.950 0.0 N 59 164 2
+#
+# CMP 72
+CMP 1 223.775608 -119.073512 0 N C47 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 223.295608 -119.073512 0.0 N 80 26 1
+TOP 1 224.255608 -119.073512 0.0 N 59 165 2
+#
+# CMP 73
+CMP 1 138.10 -98.350 0 N C6 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 137.620 -98.350 0.0 N 22 1 1
+TOP 1 138.580 -98.350 0.0 N 59 166 2
+#
+# CMP 74
+CMP 1 134.60 -53.90 0 N C13 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 134.120 -53.90 0.0 N 59 167 1
+TOP 1 135.080 -53.90 0.0 N 29 2 2
+#
+# CMP 75
+CMP 1 141.80 -35.850 0 N C24 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 141.320 -35.850 0.0 N 80 27 1
+TOP 1 142.280 -35.850 0.0 N 59 168 2
+#
+# CMP 76
+CMP 1 62.275162 -118.951946 0 N C43 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 61.795162 -118.951946 0.0 N 80 28 1
+TOP 1 62.755162 -118.951946 0.0 N 59 169 2
+#
+# CMP 77
+CMP 1 60.388363 -122.651946 0 N C32 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 59.908363 -122.651946 0.0 N 13 2 1
+TOP 1 60.868363 -122.651946 0.0 N 59 170 2
+#
+# CMP 78
+CMP 12 54.999097 -154.922813 0 N R2 Resistor_SMD_R_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Resistor'
+PRP Value 'R'
+TOP 0 54.489097 -154.922813 0.0 N 72 0 1
+TOP 1 55.509097 -154.922813 0.0 N 59 171 2
+#
+# CMP 79
+CMP 1 60.489097 -147.80 0 N C26 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 60.009097 -147.80 0.0 N 80 29 1
+TOP 1 60.969097 -147.80 0.0 N 59 172 2
+#
+# CMP 80
+CMP 18 95.950 -125.950 180.0 N C3 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 96.430 -125.950 180.0 N 59 173 1
+TOP 1 95.470 -125.950 180.0 N 19 2 2
+#
+# CMP 81
+CMP 3 55.002298 -147.80 0 N U6 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 53.962298 -147.30 0.0 N 37 1 1
+TOP 1 53.962298 -147.80 0.0 N 59 174 2
+TOP 2 53.962298 -148.30 0.0 N 72 1 3
+TOP 3 54.502298 -148.840 0.0 N 10 2 4
+TOP 4 55.002298 -148.840 0.0 N 11 2 5
+TOP 5 55.502298 -148.840 0.0 N 80 30 6
+TOP 6 56.042298 -148.30 0.0 N 59 175 7
+TOP 7 56.042298 -147.80 0.0 N 59 176 8
+TOP 8 56.042298 -147.30 0.0 N 48 1 9
+TOP 9 55.502298 -146.760 0.0 N 59 177 10
+TOP 10 55.002298 -146.760 0.0 N 73 1 11
+TOP 11 54.502298 -146.760 0.0 N 59 178 12
+TOP 12 55.002298 -147.80 0.0 N 59 179 13
+#
+# CMP 82
+CMP 10 138.110 -102.051186 180.0 N U3 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 139.150 -102.551186 180.0 N 39 1 1
+TOP 1 139.150 -102.051186 180.0 N 59 180 2
+TOP 2 139.150 -101.551186 180.0 N 41 1 3
+TOP 3 138.610 -101.011186 180.0 N 21 2 4
+TOP 4 138.110 -101.011186 180.0 N 22 2 5
+TOP 5 137.610 -101.011186 180.0 N 80 31 6
+TOP 6 137.070 -101.551186 180.0 N 59 181 7
+TOP 7 137.070 -102.051186 180.0 N 59 182 8
+TOP 8 137.070 -102.551186 180.0 N 40 1 9
+TOP 9 137.610 -103.091186 180.0 N 59 183 10
+TOP 10 138.110 -103.091186 180.0 N 34 0 11
+TOP 11 138.610 -103.091186 180.0 N 59 184 12
+TOP 12 138.110 -102.051186 180.0 N 59 185 13
+#
+# CMP 83
+CMP 11 160.879510 -115.826515 0 N J10 conector_sma_Footprint_adaptado ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'SMA Connector Jack, Female Socket 50 Ohms Surface Mount Solder'
+PRP MANUFACTURER 'Molex'
+PRP MAXIMUM_PACKAGE_HEIGHT '9.655mm'
+PRP MF 'Molex'
+PRP MP '732511352'
+PRP PARTREV 'C4'
+PRP Package 'None'
+PRP Price 'None'
+PRP STANDARD 'Manufacturer Recommendations'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/732511352/Molex/view-part/?ref=snap'
+PRP Value '0732511352'
+TOP 0 160.879510 -115.701515 0.0 N 57 1 1
+TOP 1 158.379510 -115.701515 0.0 N 59 186 S1
+TOP 2 163.379510 -115.701515 270.0 N 59 187 S2
+TOP 3 163.379510 -118.201515 0.0 N 59 188 S3
+TOP 4 158.379510 -118.201515 0.0 N 59 189 S4
+#
+# CMP 84
+CMP 1 138.10 -125.950 0 N C2 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 137.620 -125.950 0.0 N 18 1 1
+TOP 1 138.580 -125.950 0.0 N 59 190 2
+#
+# CMP 85
+CMP 3 83.657384 -92.162666 0 N U5 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 82.617384 -91.662666 0.0 N 36 1 1
+TOP 1 82.617384 -92.162666 0.0 N 59 191 2
+TOP 2 82.617384 -92.662666 0.0 N 70 1 3
+TOP 3 83.157384 -93.202666 0.0 N 1 2 4
+TOP 4 83.657384 -93.202666 0.0 N 9 2 5
+TOP 5 84.157384 -93.202666 0.0 N 80 32 6
+TOP 6 84.697384 -92.662666 0.0 N 59 192 7
+TOP 7 84.697384 -92.162666 0.0 N 59 193 8
+TOP 8 84.697384 -91.662666 0.0 N 47 1 9
+TOP 9 84.157384 -91.122666 0.0 N 59 194 10
+TOP 10 83.657384 -91.122666 0.0 N 71 1 11
+TOP 11 83.157384 -91.122666 0.0 N 59 195 12
+TOP 12 83.657384 -92.162666 0.0 N 59 196 13
+#
+# CMP 86
+CMP 19 113.50 -25.2250 0 N J11 Conector_alimentacao_SAMESKY_TB0012-508-03GR ;0=2
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/TB0012-508-03GR/Same+Sky/view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 '3 Position Wire to Board Terminal Block Horizontal with Board 0.200 (5.08mm) Through Hole'
+PRP MANUFACTURER 'SAMESKY'
+PRP MF 'Same Sky (Formerly CUI Devices)'
+PRP MP 'TB0012-508-03GR'
+PRP Package 'None'
+PRP Price 'None'
+PRP Purchase-URL 'https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=18753502&manufacturer=Same Sky (Formerly CUI Devices)&part_name=TB0012-508-03GR&search_term=None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/TB0012-508-03GR/Same+Sky/view-part/?ref=snap'
+PRP Value 'TB0012-508-03GR'
+TOP 0 108.420 -25.2250 0.0 N 80 33 1
+TOP 1 113.50 -25.2250 0.0 N 81 0 2
+TOP 2 118.580 -25.2250 0.0 N 59 197 3
+#
+# CMP 87
+CMP 7 141.70 -125.950 180.0 N C1 Capacitor_SMD_C_0402_1005Metric ;0=1
+PRP Datasheet '~'
+PRP Description 'Unpolarized capacitor'
+PRP Value 'C'
+TOP 0 142.180 -125.950 180.0 N 59 198 1
+TOP 1 141.220 -125.950 180.0 N 17 1 2
+#
+# CMP 88
+CMP 10 138.10 -129.601843 180.0 N U1 SKY13373-460LF_QFN50P200X200X65-13N ;0=1
+PRP Availability 'In Stock'
+PRP Check_prices 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=eda'
+PRP Datasheet ''
+PRP Description ''
+PRP Description_1 'RF Switch IC 802.11a/b/g/n SP3T 6 GHz 50Ohm 12-QFN (2x2)'
+PRP MANUFACTURER 'Skyworks'
+PRP MAXIMUM_PACKAGE_HEIGHT '0.65 mm'
+PRP MF 'Skyworks Solutions'
+PRP MP 'SKY13373-460LF'
+PRP PARTREV 'May 6, 2016'
+PRP Package 'QFN-12 Skyworks Solutions'
+PRP Price 'None'
+PRP STANDARD 'IPC-7351B'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SKY13373-460LF/Skyworks+Solution%252C+Inc./view-part/?ref=snap'
+PRP Value 'SKY13373-460LF'
+TOP 0 139.140 -130.101843 180.0 N 35 1 1
+TOP 1 139.140 -129.601843 180.0 N 59 199 2
+TOP 2 139.140 -129.101843 180.0 N 34 1 3
+TOP 3 138.60 -128.561843 180.0 N 17 2 4
+TOP 4 138.10 -128.561843 180.0 N 18 2 5
+TOP 5 137.60 -128.561843 180.0 N 80 34 6
+TOP 6 137.060 -129.101843 180.0 N 59 200 7
+TOP 7 137.060 -129.601843 180.0 N 59 201 8
+TOP 8 137.060 -130.101843 180.0 N 33 1 9
+TOP 9 137.60 -130.641843 180.0 N 59 202 10
+TOP 10 138.10 -130.641843 180.0 N 60 1 11
+TOP 11 138.60 -130.641843 180.0 N 59 203 12
+TOP 12 138.10 -129.601843 180.0 N 59 204 13
+#

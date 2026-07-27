@@ -5642,7 +5642,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 152.4 130.81 0)
 			(effects
 				(font
@@ -5934,7 +5934,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 64.77 130.81 0)
 			(effects
 				(font
@@ -6564,7 +6564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 152.4 62.23 0)
 			(effects
 				(font
@@ -8598,7 +8598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 64.77 96.52 0)
 			(effects
 				(font
@@ -9086,7 +9086,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 64.77 62.23 0)
 			(effects
 				(font
@@ -10846,7 +10846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 152.4 96.52 0)
 			(effects
 				(font
@@ -12155,7 +12155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 240.03 96.52 0)
 			(effects
 				(font
@@ -14260,7 +14260,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 240.03 62.23 0)
 			(effects
 				(font

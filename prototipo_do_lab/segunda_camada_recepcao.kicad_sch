@@ -2808,7 +2808,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 146.05 132.08 0)
 			(effects
 				(font
@@ -4248,7 +4248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 146.05 97.79 0)
 			(effects
 				(font
@@ -5137,7 +5137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
 			(at 146.05 63.5 0)
 			(effects
 				(font

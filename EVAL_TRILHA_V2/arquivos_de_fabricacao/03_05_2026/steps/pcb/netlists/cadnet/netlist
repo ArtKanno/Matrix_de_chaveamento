@@ -1,0 +1,123 @@
+H optimize n staggered n
+$1 Net-(J0-Pad1)
+$2 GND
+$3 Net-(J2-Pad1)
+$4 Net-(J4-Pad1)
+$5 Net-(J6-Pad1)
+$6 Net-(J8-Pad1)
+$7 Net-(J10-Pad1)
+$8 /Ctrl1
+$9 /Ctrl2
+$10 VDD
+$11 unconnected-(J12-Pad05)
+$12 Net-(U1-RFC)
+$13 /RF1
+$14 /RF2
+$15 /RF3
+#
+#Netlist points
+#
+1 1.0 111.250 -107.860 B e e staggered 0 0 0
+1 1.0 191.0 -107.860 B e e staggered 0 0 0
+2 1.350 126.13250 -96.540 B e e staggered 0 0 0
+2 1.350 131.13250 -96.540 B e e staggered 0 0 0
+2 1.350 131.13250 -99.040 B e e staggered 0 0 0
+2 1.350 126.13250 -99.040 B e e staggered 0 0 0
+2 0 121.50 -67.640 T 0.560 0.620 e s
+2 1.350 191.0 -93.340 B e e staggered 0 0 0
+2 1.350 191.0 -88.340 B e e staggered 0 0 0
+2 1.350 193.50 -88.340 B e e staggered 0 0 0
+2 1.350 193.50 -93.340 B e e staggered 0 0 0
+2 1.350 111.250 -105.360 B e e staggered 0 0 0
+2 1.350 111.250 -110.360 B e e staggered 0 0 0
+2 1.350 108.750 -110.360 B e e staggered 0 0 0
+2 1.350 108.750 -105.360 B e e staggered 0 0 0
+2 0 126.50 -67.640 T 0.560 0.620 e s
+2 1.350 191.0 -127.380 B e e staggered 0 0 0
+2 1.350 191.0 -122.380 B e e staggered 0 0 0
+2 1.350 193.50 -122.380 B e e staggered 0 0 0
+2 1.350 193.50 -127.380 B e e staggered 0 0 0
+2 1.350 191.0 -59.30 B e e staggered 0 0 0
+2 1.350 191.0 -54.30 B e e staggered 0 0 0
+2 1.350 193.50 -54.30 B e e staggered 0 0 0
+2 1.350 193.50 -59.30 B e e staggered 0 0 0
+2 1.350 108.63250 -74.040 B e e staggered 0 0 0
+2 1.350 108.63250 -79.040 B e e staggered 0 0 0
+2 1.350 106.13250 -79.040 B e e staggered 0 0 0
+2 1.350 106.13250 -74.040 B e e staggered 0 0 0
+2 1.350 191.0 -76.320 B e e staggered 0 0 0
+2 1.350 191.0 -71.320 B e e staggered 0 0 0
+2 1.350 193.50 -71.320 B e e staggered 0 0 0
+2 1.350 193.50 -76.320 B e e staggered 0 0 0
+2 1.350 111.250 -139.40 B e e staggered 0 0 0
+2 1.350 111.250 -144.40 B e e staggered 0 0 0
+2 1.350 108.750 -144.40 B e e staggered 0 0 0
+2 1.350 108.750 -139.40 B e e staggered 0 0 0
+2 1.350 191.0 -144.40 B e e staggered 0 0 0
+2 1.350 191.0 -139.40 B e e staggered 0 0 0
+2 1.350 193.50 -139.40 B e e staggered 0 0 0
+2 1.350 193.50 -144.40 B e e staggered 0 0 0
+2 1.350 131.13250 -56.6650 B e e staggered 0 0 0
+2 1.350 126.13250 -56.6650 B e e staggered 0 0 0
+2 1.350 126.13250 -54.1650 B e e staggered 0 0 0
+2 1.350 131.13250 -54.1650 B e e staggered 0 0 0
+2 1.350 161.250 -54.30 B e e staggered 0 0 0
+2 1.350 161.250 -59.30 B e e staggered 0 0 0
+2 1.350 158.750 -59.30 B e e staggered 0 0 0
+2 1.350 158.750 -54.30 B e e staggered 0 0 0
+2 1.350 191.0 -110.360 B e e staggered 0 0 0
+2 1.350 191.0 -105.360 B e e staggered 0 0 0
+2 1.350 193.50 -105.360 B e e staggered 0 0 0
+2 1.350 193.50 -110.360 B e e staggered 0 0 0
+2 0 116.50 -67.640 T 0.560 0.620 e s
+2 1.350 161.250 -88.340 B e e staggered 0 0 0
+2 1.350 161.250 -93.340 B e e staggered 0 0 0
+2 1.350 158.750 -93.340 B e e staggered 0 0 0
+2 1.350 158.750 -88.340 B e e staggered 0 0 0
+2 1.350 161.250 -71.320 B e e staggered 0 0 0
+2 1.350 161.250 -76.320 B e e staggered 0 0 0
+2 1.350 158.750 -76.320 B e e staggered 0 0 0
+2 1.350 158.750 -71.320 B e e staggered 0 0 0
+2 1.350 111.250 -122.380 B e e staggered 0 0 0
+2 1.350 111.250 -127.380 B e e staggered 0 0 0
+2 1.350 108.750 -127.380 B e e staggered 0 0 0
+2 1.350 108.750 -122.380 B e e staggered 0 0 0
+2 1.020 107.23250 -53.20 B e e staggered 0 0 0
+2 0 129.640 -76.540 T 0.630 0.220 e s
+2 0 127.560 -76.040 T 0.630 0.220 e s
+2 0 127.560 -76.540 T 0.630 0.220 e s
+2 0 128.10 -77.580 T 0.220 0.630 e s
+2 0 129.10 -77.580 T 0.220 0.630 e s
+2 0 128.60 -76.540 T 0.760 0.760 e s
+2 1.350 148.50750 -79.040 B e e staggered 0 0 0
+2 1.350 148.50750 -74.040 B e e staggered 0 0 0
+2 1.350 151.00750 -74.040 B e e staggered 0 0 0
+2 1.350 151.00750 -79.040 B e e staggered 0 0 0
+3 1.0 191.0 -90.840 B e e staggered 0 0 0
+3 1.0 161.250 -90.840 B e e staggered 0 0 0
+4 1.0 191.0 -124.880 B e e staggered 0 0 0
+4 1.0 111.250 -124.880 B e e staggered 0 0 0
+5 1.0 191.0 -73.820 B e e staggered 0 0 0
+5 1.0 161.250 -73.820 B e e staggered 0 0 0
+6 1.0 111.250 -141.90 B e e staggered 0 0 0
+6 1.0 191.0 -141.90 B e e staggered 0 0 0
+7 1.0 191.0 -56.80 B e e staggered 0 0 0
+7 1.0 161.250 -56.80 B e e staggered 0 0 0
+8 0 126.50 -68.60 T 0.560 0.620 e s
+8 1.020 122.47250 -53.20 B e e staggered 0 0 0
+8 0 129.10 -75.50 T 0.220 0.630 e s
+9 0 121.50 -68.60 T 0.560 0.620 e s
+9 1.020 117.39250 -53.20 B e e staggered 0 0 0
+9 0 128.60 -75.50 T 0.220 0.630 e s
+10 0 116.50 -68.60 T 0.560 0.620 e s
+10 1.020 112.31250 -53.20 B e e staggered 0 0 0
+10 0 128.10 -75.50 T 0.220 0.630 e s
+11 1.020 102.15250 -53.20 B e e staggered 0 0 0
+12 1.0 128.63250 -96.540 B e e staggered 0 0 0
+12 0 128.60 -77.580 T 0.220 0.630 e s
+13 0 129.640 -77.040 T 0.630 0.220 e s
+13 1.0 148.50750 -76.540 B e e staggered 0 0 0
+14 1.0 108.63250 -76.540 B e e staggered 0 0 0
+14 0 127.560 -77.040 T 0.630 0.220 e s
+15 1.0 128.63250 -56.6650 B e e staggered 0 0 0
+15 0 129.640 -76.040 T 0.630 0.220 e s

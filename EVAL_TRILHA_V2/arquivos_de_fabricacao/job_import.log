@@ -1,0 +1,86 @@
+Info: Sun May  3 21:47:09 2026
+ (0 Minutes 0 Seconds 0 Milliseconds total): ODB Import Started
+
+Info: Skipping read of fonts: standard
+Info: Reading matrix file: C:/Users/LENOVO/OneDrive/Documents/Imageamento/eval_2.0/arquivos_de_fabricacao/03_05_2026\matrix\matrix
+Info: Reading step matrix array.
+Warning: Invalid step NAME parameter value 'PCB' mapped to 'pcb'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'COMP_+_TOP' mapped to 'comp_+_top'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'F.SILKSCREEN' mapped to 'f.silkscreen'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'F.PASTE' mapped to 'f.paste'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'F.MASK' mapped to 'f.mask'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'F.CU' mapped to 'f.cu'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'DIELECTRIC_1' mapped to 'dielectric_1'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'IN1.CU' mapped to 'in1.cu'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'DIELECTRIC_2' mapped to 'dielectric_2'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'IN2.CU' mapped to 'in2.cu'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'DIELECTRIC_3' mapped to 'dielectric_3'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'B.CU' mapped to 'b.cu'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'B.MASK' mapped to 'b.mask'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'B.PASTE' mapped to 'b.paste'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'B.SILKSCREEN' mapped to 'b.silkscreen'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'F.ADHESIVE' mapped to 'f.adhesive'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'B.ADHESIVE' mapped to 'b.adhesive'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'USER.DRAWINGS' mapped to 'user.drawings'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'USER.COMMENTS' mapped to 'user.comments'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'USER.ECO1' mapped to 'user.eco1'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'USER.ECO2' mapped to 'user.eco2'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'EDGE.CUTS' mapped to 'edge.cuts'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'MARGIN' mapped to 'margin'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'B.COURTYARD' mapped to 'b.courtyard'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'F.COURTYARD' mapped to 'f.courtyard'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'B.FAB' mapped to 'b.fab'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'F.FAB' mapped to 'f.fab'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'USER.1' mapped to 'user.1'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'USER.2' mapped to 'user.2'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'USER.3' mapped to 'user.3'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'USER.4' mapped to 'user.4'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading layer matrix array
+Warning: Invalid layer NAME parameter value 'DRILL_PLATED_F.CU-B.CU' mapped to 'drill_plated_f.cu-b.cu'. NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Warning: Invalid layer START_NAME parameter value 'F.CU' mapped to 'f.cu'. START_NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Warning: Invalid layer END_NAME parameter value 'B.CU' mapped to 'b.cu'. END_NAME may contain only lower case letters, digits, '-', '_', '.', and '+'.
+Info: Reading custom symbols from: C:/Users/LENOVO/OneDrive/Documents/Imageamento/eval_2.0/arquivos_de_fabricacao/03_05_2026\symbols
+Info: Reading step "pcb".
+Info: TODO - read: C:/Users/LENOVO/OneDrive/Documents/Imageamento/eval_2.0/arquivos_de_fabricacao/03_05_2026\steps\pcb\stephdr
+Info: Reading layers from: C:/Users/LENOVO/OneDrive/Documents/Imageamento/eval_2.0/arquivos_de_fabricacao/03_05_2026\steps\pcb\layers
+Info: Reading layer components file "C:/Users/LENOVO/OneDrive/Documents/Imageamento/eval_2.0/arquivos_de_fabricacao/03_05_2026\steps\pcb\layers\comp_+_top\components".
+Info: Updating components defined on comp_+_top
+Info: Sun May  3 21:47:09 2026
+ (0 Minutes 0 Seconds 54 Milliseconds total): ODB Import Finished
+
+
+
+Import to/from: C:\Users\LENOVO\OneDrive\Documents\Imageamento\eval_2.0\arquivos_de_fabricacao
+Import complete for: 03_05_2026
+Errors: 0 Warnings: 34
+Elapsed time: 0 Minutes 0 Seconds 54 Milliseconds

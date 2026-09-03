@@ -1,4 +1,4 @@
-26648703196413844
+26650488384993241
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -97126,6 +97126,13 @@ rotary encoder illuminated switch vertical
 8
 SKY13373-460LF
 QFN50P200X200X65-13N
+
+
+0
+13
+13
+SKY13373-460LF
+QFN50P200X200X65-13N_1LabProt
 
 
 0

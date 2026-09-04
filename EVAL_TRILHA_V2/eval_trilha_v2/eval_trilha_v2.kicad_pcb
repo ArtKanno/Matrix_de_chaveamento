@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(general
-		(thickness 1.6)
+		(thickness 1.584)
 		(legacy_teardrops no)
 	)
 	(paper "A4")
@@ -45,15 +45,15 @@
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
-				(thickness 0.01)
+				(thickness 0.025)
 			)
 			(layer "F.Cu"
 				(type "copper")
-				(thickness 0.035)
+				(thickness 0.017)
 			)
 			(layer "dielectric 1"
 				(type "prepreg")
-				(thickness 0.1)
+				(thickness 0.15)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -64,7 +64,7 @@
 			)
 			(layer "dielectric 2"
 				(type "core")
-				(thickness 1.24)
+				(thickness 1.13)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -75,18 +75,18 @@
 			)
 			(layer "dielectric 3"
 				(type "prepreg")
-				(thickness 0.1)
+				(thickness 0.15)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
 			)
 			(layer "B.Cu"
 				(type "copper")
-				(thickness 0.035)
+				(thickness 0.017)
 			)
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
-				(thickness 0.01)
+				(thickness 0.025)
 			)
 			(layer "B.Paste"
 				(type "Bottom Solder Paste")
@@ -10747,7 +10747,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "0.308mm Calculated with KiCad"
+	(gr_text "0.291mm Calculated with KiCad"
 		(at 167 57.96 0)
 		(layer "F.SilkS")
 		(uuid "52bd069b-3258-41db-8d5a-cc6311303a69")
@@ -10771,7 +10771,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "0.308mm Calculated with KiCad"
+	(gr_text "0.291mm Calculated with KiCad"
 		(at 122 105.5 0)
 		(layer "F.SilkS")
 		(uuid "8c810a93-df7e-4d28-bd5d-d4e996de687b")
@@ -10834,7 +10834,7 @@
 	(segment
 		(start 191 105.953056)
 		(end 111.25 105.953056)
-		(width 0.308)
+		(width 0.291)
 		(layer "F.Cu")
 		(net 0)
 		(uuid "91969c60-a91b-4b13-bf1c-05390d9f9fa2")
@@ -14405,7 +14405,7 @@
 	(segment
 		(start 191 58.328611)
 		(end 161.25 58.328611)
-		(width 0.308)
+		(width 0.291)
 		(layer "F.Cu")
 		(net 7)
 		(uuid "5de8f12a-51c8-4649-978d-37cc2b0619ae")

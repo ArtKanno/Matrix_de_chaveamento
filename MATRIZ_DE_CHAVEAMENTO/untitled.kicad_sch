@@ -10846,7 +10846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N_1LabProt"
+		(property "Footprint" "SKY13373-460LF:QFN50P200X200X65-13N"
 			(at 152.4 96.52 0)
 			(effects
 				(font

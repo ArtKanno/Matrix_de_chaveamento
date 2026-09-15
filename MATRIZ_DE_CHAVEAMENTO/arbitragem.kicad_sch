@@ -4857,6 +4857,16 @@
 		)
 		(uuid "f724b5d3-aad1-4c90-b8a1-62736ae04b30")
 	)
+	(wire
+		(pts
+			(xy 259.08 77.47) (xy 259.08 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8c31f50-f55b-4e0c-af2a-c517fdc31fe7")
+	)
 	(bus
 		(pts
 			(xy 48.26 96.52) (xy 48.26 99.06)
@@ -8563,6 +8573,72 @@
 			(project ""
 				(path "/cdf0ef36-17ab-4910-af08-9c79f1680f36/94333ec5-1b9c-4318-b308-51cf4235b858"
 					(reference "U17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 259.08 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b2563e80-ecb1-4096-9fc7-715d18e8c1ab")
+		(property "Reference" "#PWR0121"
+			(at 259.08 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 259.08 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 259.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 259.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7613c7a-e790-4286-a467-549c25454b48")
+		)
+		(instances
+			(project "Imageamento_microondas"
+				(path "/cdf0ef36-17ab-4910-af08-9c79f1680f36/94333ec5-1b9c-4318-b308-51cf4235b858"
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
